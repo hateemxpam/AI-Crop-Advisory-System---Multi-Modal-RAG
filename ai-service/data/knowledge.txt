@@ -1,0 +1,199 @@
+Wheat rust appears as yellow, brown, or black powder on leaves and stems.
+The disease spreads quickly in cool and humid weather, especially in dense fields.
+Use resistant seed varieties, avoid late sowing, and spray a recommended fungicide early.
+
+Loose smut in wheat shows black dusty heads instead of healthy grains at flowering.
+The fungus lives inside seed, so infected seed can spread the problem next season.
+Use certified treated seed and apply proper seed treatment before sowing.
+
+Powdery mildew in wheat looks like white powder patches on leaves and leaf sheaths.
+It reduces leaf photosynthesis, which lowers grain filling and final yield.
+Maintain balanced fertilizer use and spray fungicide when early symptoms appear.
+
+Root rot in wheat causes weak plants, yellow leaves, and poor tiller growth.
+Waterlogging and continuous wheat cropping can increase this soil-borne disease.
+Improve drainage, rotate crops, and use disease-free seed to reduce losses.
+
+Rice blast causes spindle-shaped spots with gray centers on leaves and necks.
+It is severe in cloudy weather, high humidity, and excess nitrogen conditions.
+Use resistant varieties, split nitrogen doses, and spray fungicide at early signs.
+
+Bacterial leaf blight in rice starts with yellowing at leaf tips and margins.
+The disease spreads through rain splash, irrigation water, and infected plant material.
+Use clean seed, avoid field injury, and follow recommended copper-based sprays if needed.
+
+Sheath blight in rice forms oval lesions on leaf sheaths near the water line.
+Dense planting and high nitrogen create a humid canopy that favors infection.
+Keep proper plant spacing, manage nitrogen carefully, and use fungicide at booting stage.
+
+Brown spot in rice produces small brown lesions and can reduce grain quality.
+It is common in nutrient-poor soils, especially where potash and silicon are low.
+Apply balanced fertilizer, improve organic matter, and avoid moisture stress during growth.
+
+Maize leaf blight creates long gray-brown lesions that spread along leaves.
+The disease can dry leaves early and reduce cob development in severe cases.
+Use resistant hybrids, remove infected residues, and spray fungicide when needed.
+
+Downy mildew in maize causes pale stripes and stunted growth in young plants.
+Infected plants may not form normal cobs and can become sterile.
+Use treated seed, rogue infected plants early, and rotate maize with non-host crops.
+
+Stalk rot in maize weakens stems and causes plants to lodge before harvest.
+Poor drainage, nutrient stress, and insect injury can increase stalk rot incidence.
+Maintain balanced nutrition, avoid water stress, and harvest on time to reduce damage.
+
+Maize mosaic virus causes mottled yellow-green leaves and poor plant vigor.
+The virus is often spread by insect vectors such as aphids and leafhoppers.
+Control vectors early, remove infected plants, and use tolerant hybrids where available.
+
+Nitrogen fertilizer helps crops grow green leaves and strong stems quickly.
+Too much nitrogen can cause soft growth, pest attack, and disease pressure.
+Apply in split doses based on crop stage instead of giving all at once.
+
+Phosphorus supports root development and early crop establishment after sowing.
+Poor phosphorus supply can lead to stunted plants with dark green or purplish leaves.
+Place phosphorus near the root zone at planting for better uptake.
+
+Potassium improves disease tolerance, water balance, and grain quality in crops.
+Deficient plants may show leaf edge burning and weak stress tolerance.
+Apply muriate of potash at recommended rates after soil test guidance.
+
+Urea is a common nitrogen source and should be used with moisture in soil.
+If urea stays on dry soil surface, some nitrogen can be lost to the air.
+Apply before irrigation or light rain and avoid use during very hot midday periods.
+
+DAP provides both nitrogen and phosphorus for early crop growth.
+It is useful at sowing time when roots are developing rapidly.
+Do not overuse DAP alone; combine with potash and other nutrients as needed.
+
+Zinc deficiency is common in rice and maize soils with high pH.
+Plants may show yellow striping, short internodes, and poor tillering.
+Use zinc sulfate as soil application or foliar spray according to recommendation.
+
+Sulfur helps protein formation and improves grain quality in cereals.
+Deficiency appears as overall yellowing, often first on younger leaves.
+Apply gypsum or sulfur-containing fertilizers where sulfur levels are low.
+
+Micronutrients like boron, iron, and manganese are needed in small amounts.
+Even small shortages can reduce flowering, grain setting, and crop health.
+Use soil test based micronutrient blends instead of random mixed sprays.
+
+Compost adds slow-release nutrients and improves soil structure over time.
+It supports beneficial microbes that help nutrient cycling and root health.
+Use well-decomposed compost before sowing and mix it evenly in soil.
+
+Integrated nutrient management combines chemical fertilizer with organic inputs.
+This approach improves yield stability and reduces long-term soil degradation.
+Plan fertilizer schedule by crop stage, soil test, and local advisory.
+
+First irrigation in wheat is critical around crown root initiation stage.
+Late first irrigation can reduce tillers and lower final grain yield.
+Irrigate on time and avoid standing water for long periods in wheat fields.
+
+Rice fields need water management, not permanent deep flooding all season.
+Continuous deep water wastes water and may reduce root oxygen.
+Use alternate wetting and drying where suitable to save water and maintain yield.
+
+Maize is sensitive to moisture stress at tasseling and silking stages.
+Water shortage at these stages can sharply reduce kernel formation.
+Prioritize irrigation during flowering and grain filling for better cobs.
+
+Laser land leveling improves uniform water distribution across the field.
+It reduces waterlogging in low spots and dryness in high spots.
+This practice saves irrigation water and supports uniform crop growth.
+
+Irrigate early morning or late evening to reduce evaporation losses.
+Hot daytime irrigation can waste water and create plant stress.
+Use proper field channels to deliver water evenly to all rows.
+
+Drip irrigation gives water directly near root zones in row crops.
+It reduces weed growth between rows and improves fertilizer efficiency.
+Regularly clean filters and check emitters to keep the system working well.
+
+Sprinkler irrigation is useful in sandy soils and uneven fields.
+Strong wind can reduce uniformity, so timing and nozzle selection matter.
+Avoid over-sprinkling to prevent leaf diseases and nutrient leaching.
+
+Do not irrigate by fixed calendar only; check soil moisture first.
+Over-irrigation causes nutrient loss, root disease, and poor aeration.
+Use a soil probe or hand feel method to decide irrigation need.
+
+Good drainage is as important as irrigation in heavy soils.
+Standing water for long periods can damage roots and increase fungal diseases.
+Maintain field drains and remove blockages before rainy periods.
+
+Mulching with crop residue reduces evaporation from the soil surface.
+It helps maintain cooler soil temperature and suppresses weed growth.
+Use clean residue mulch in row crops without touching plant stems.
+
+Fall armyworm in maize feeds on whorl leaves and makes ragged holes.
+Early scouting is important because young larvae are easier to control.
+Use pheromone traps, hand destruction in small fields, and recommended insecticides.
+
+Stem borer in rice and maize causes dead hearts and white heads.
+Larvae live inside stems, making late sprays less effective.
+Monitor moth activity and apply control at egg or early larval stage.
+
+Aphids suck plant sap and can spread viral diseases quickly.
+Heavy infestation causes leaf curling, yellowing, and sticky honeydew.
+Encourage natural enemies and spray selective insecticide only when threshold is crossed.
+
+Brown planthopper in rice can cause hopper burn and sudden drying patches.
+Excess nitrogen and dense planting can increase pest outbreaks.
+Avoid over-fertilization and use need-based insecticide with rotation of mode of action.
+
+Whitefly attacks many crops and transmits plant viruses.
+Warm weather and repeated broad-spectrum sprays can worsen whitefly problems.
+Use yellow sticky traps, field sanitation, and targeted sprays when necessary.
+
+Termites damage roots and stems in dry soil conditions.
+Weak plants and undecomposed residues can attract termite attack.
+Treat seed where recommended and maintain proper soil moisture.
+
+Cutworms cut young seedlings at ground level during night feeding.
+Damage is often patchy and severe in newly planted fields.
+Use light traps, deep plowing before sowing, and bait application if needed.
+
+Red flour beetle and storage pests damage grains after harvest.
+Poor drying and damp storage increase insect multiplication.
+Dry grain to safe moisture and store in clean, airtight structures.
+
+Rodents in fields and storage cause direct loss and contamination.
+They also damage bunds, irrigation channels, and stored grain bags.
+Use burrow management, trap methods, and community-level control programs.
+
+Integrated pest management combines monitoring, prevention, and safe control methods.
+It reduces unnecessary pesticide use and protects beneficial insects.
+Spray only at economic threshold level with correct dose and timing.
+
+Soil organic matter improves water holding, nutrient supply, and root growth.
+Low organic matter soils become hard, less fertile, and prone to erosion.
+Add farmyard manure, compost, and crop residues regularly.
+
+Crop rotation breaks pest cycles and improves soil nutrient balance.
+Growing the same crop repeatedly can increase disease and nutrient depletion.
+Rotate cereals with legumes to improve nitrogen and soil structure.
+
+Soil testing shows nutrient status and helps correct fertilizer planning.
+Without testing, farmers may overuse one nutrient and miss another.
+Test soil every two to three years and follow local recommendations.
+
+Green manuring with legume crops adds biomass and natural nitrogen.
+Incorporated green plants improve soil microbial activity and tilth.
+Use green manure before main crop in fields with poor fertility.
+
+Soil pH affects nutrient availability and fertilizer performance.
+Very alkaline or very acidic soils can lock important nutrients.
+Use amendments like gypsum or lime based on soil test advice.
+
+Salinity in soil causes poor germination and stunted plant growth.
+White crust on soil surface is a common visible sign.
+Improve drainage, use good quality irrigation water, and grow tolerant varieties.
+
+Avoid burning crop residues because it destroys soil life and organic carbon.
+Burning also causes air pollution and nutrient loss from the field.
+Incorporate residues or compost them for long-term soil health.
+
+Conservation tillage reduces soil disturbance and protects topsoil.
+It helps reduce erosion and keeps moisture in dry periods.
+Combine reduced tillage with residue cover for better soil resilience.

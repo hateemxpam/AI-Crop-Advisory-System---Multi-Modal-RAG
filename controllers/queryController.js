@@ -1,4 +1,4 @@
-const { answerCropQuery } = require("../services/ragService");
+const { handleQuery: runRagPipeline } = require("../services/ragService");
 const { badRequest, internalError, ok } = require("../utils/responseHelper");
 const { isNonEmptyString, isValidLanguage } = require("../utils/validators");
 
@@ -14,8 +14,8 @@ async function handleQuery(req, res) {
 			return badRequest(res, "Field 'language' must be one of: en, ur, pa.");
 		}
 
-		const result = await answerCropQuery({ query: query.trim(), language });
-		return ok(res, result);
+		const finalAnswer = await runRagPipeline(query.trim(), language);
+		return ok(res, { response: finalAnswer });
 	} catch (error) {
 		return internalError(res, "Failed to process advisory query.", error.message);
 	}

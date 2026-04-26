@@ -108,7 +108,7 @@ async function translateToEnglish(text, sourceLang) {
   // - Specifies source language explicitly to help the model, even if it could auto-detect
   // - "Only return the translated text" prevents the model from adding explanations
   // - "Keep meaning accurate and simple" preserves agricultural terminology correctly
-  const prompt = `Translate the following ${sourceLanguageName} text to English. Keep meaning accurate and simple. Only return the translated text, with no explanation or extra commentary.
+  const prompt = `Translate the following ${sourceLanguageName} text to English. Keep meaning accurate and simple. Translate the full text completely and do not shorten or summarize. Only return the translated text, with no explanation or extra commentary.
 
 Text: ${text}`;
 
@@ -166,7 +166,7 @@ async function translateFromEnglish(text, targetLang) {
   // - We specify "from English" explicitly for precision
   // - Agricultural advice must be clear and culturally appropriate
   // - "Only return the translated text" keeps the output clean for display in the UI
-  const prompt = `Translate the following English text to ${targetLanguageName}. The text is agricultural advice for farmers. Keep the meaning accurate, clear, and culturally appropriate. Use natural, properly joined words in ${targetLanguageName} script (do not space out individual letters). Only return the translated text, with no explanation or extra commentary.
+  const prompt = `Translate the following English text to ${targetLanguageName}. The text is agricultural advice for farmers. Keep the meaning accurate, clear, and culturally appropriate. Translate the full text completely; do not summarize, shorten, or omit any point. Preserve numbering and line breaks exactly if present. Use natural, properly joined words in ${targetLanguageName} script (do not space out individual letters). Only return the translated text, with no explanation or extra commentary.
 
 Text: ${text}`;
 
@@ -175,7 +175,7 @@ Text: ${text}`;
       systemPrompt: "You are a professional translator for agricultural support.",
       userPrompt: prompt,
       temperature: 0.1,
-      maxOutputTokens: 512,
+      maxOutputTokens: 900,
     });
     const translated =
       targetLang === "ur" || targetLang === "pa"
