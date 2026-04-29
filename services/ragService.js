@@ -39,9 +39,41 @@ ${contextText}
 Question:
 ${queryEnglish}
 
-Give a clear, practical answer with 4 to 6 actionable points.
-Also include one short caution note.
-Do not return incomplete or one-line answers.`;
+Give a clear, practical answer with 5 numbered points.
+Each point should have 2 short sentences and explain what the farmer should do.
+Add one short caution note at the end.
+Target about 250 to 400 words.
+Do not return incomplete or one-line answers.
+Do not stop after the first point; complete the full list.`;
+}
+
+function buildContextFallback(contextText, queryEnglish) {
+	const rawSentences = String(contextText || "")
+		.replace(/\s+/g, " ")
+		.split(/(?<=[.!?])\s+/)
+		.map((sentence) => sentence.trim())
+		.filter(Boolean);
+
+	const uniqueSentences = [];
+	for (const sentence of rawSentences) {
+		if (!uniqueSentences.includes(sentence)) {
+			uniqueSentences.push(sentence);
+		}
+		if (uniqueSentences.length >= 5) break;
+	}
+
+	const intro = `Here is practical advice for your question about ${queryEnglish.trim()}:`;
+	const bullets = uniqueSentences.length > 0
+		? uniqueSentences.map((sentence, index) => `${index + 1}. ${sentence}`)
+		: [
+			"1. Keep the field well drained so roots do not stay in standing water.",
+			"2. Watch the crop daily for fungal spots, wilting, and pest damage.",
+			"3. Apply fertilizer only according to crop stage and soil condition.",
+			"4. Remove diseased leaves and use clean tools to avoid spreading infection.",
+			"5. Harvest and store produce carefully during dry weather whenever possible.",
+		];
+
+	return `${intro}\n\n${bullets.join("\n")}\n\nCaution: avoid waterlogging, and do not spray or fertilize heavily during continuous rain.`;
 }
 
 /**
@@ -57,6 +89,9 @@ Do not return incomplete or one-line answers.`;
  * @returns {Promise<string>} Final response in user language
  */
 async function handleQuery(query, language = "en") {
+	let queryEnglish = "";
+	let contextText = "";
+
 	try {
 		if (typeof query !== "string" || !query.trim()) {
 			throw new Error("Query must be a non-empty string.");
@@ -65,11 +100,11 @@ async function handleQuery(query, language = "en") {
 		const normalizedLanguage = typeof language === "string" ? language : "en";
 
 		// Step 1: Translate user query to English.
-		const queryEnglish = await translateToEnglish(query.trim(), normalizedLanguage);
+		queryEnglish = await translateToEnglish(query.trim(), normalizedLanguage);
 
 		// Step 2: Retrieve relevant knowledge from FAISS microservice.
 		const retrievedChunks = await searchKnowledge(queryEnglish);
-		const contextText = Array.isArray(retrievedChunks) && retrievedChunks.length > 0
+		contextText = Array.isArray(retrievedChunks) && retrievedChunks.length > 0
 			? retrievedChunks.join("\n\n")
 			: "No external context found. Use core agricultural best practices and answer safely.";
 
@@ -82,6 +117,18 @@ async function handleQuery(query, language = "en") {
 		return finalResponse;
 	} catch (error) {
 		console.error("[RagService] Failed to handle query.", error.message);
+		const normalized = String(error?.message || "").toLowerCase();
+		const isQuotaOrServiceIssue =
+			normalized.includes("quota") ||
+			normalized.includes("429") ||
+			normalized.includes("503") ||
+			normalized.includes("service unavailable") ||
+			normalized.includes("high demand");
+
+		if (isQuotaOrServiceIssue) {
+			return buildContextFallback(contextText, queryEnglish || query);
+		}
+
 		return buildUserErrorMessage(language, error.message);
 	}
 }
