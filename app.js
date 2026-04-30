@@ -1,6 +1,7 @@
 const express = require("express");
 const path = require("path");
 const queryRoutes = require("./routes/queryRoutes");
+const imageRoutes = require("./routes/imageRoutes");
 
 const app = express();
 const publicDir = path.join(__dirname, "public");
@@ -17,6 +18,7 @@ app.get("/health", (_req, res) => {
 });
 
 app.use("/api/query", queryRoutes);
+app.use("/api/image-query", imageRoutes);
 
 app.use((_req, res) => {
 	res.status(404).json({ success: false, error: "Route not found." });

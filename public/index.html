@@ -102,14 +102,20 @@
       padding: 11px 16px;
       cursor: pointer;
       font-weight: 600;
+      transition: background 0.2s ease;
     }
 
-    #askBtn {
+    #askBtn, #uploadBtn {
       background: var(--brand);
       color: #fff;
     }
 
-    #askBtn:hover { background: var(--brand-2); }
+    #askBtn:hover, #uploadBtn:hover { background: var(--brand-2); }
+
+    #askBtn:disabled, #uploadBtn:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
 
     #clearBtn {
       background: #edf3ea;
@@ -133,21 +139,122 @@
       min-height: 130px;
       line-height: 1.5;
     }
+
+    /* ── Divider between text and image sections ── */
+    .divider {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      color: var(--muted);
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .divider::before,
+    .divider::after {
+      content: "";
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ── Image Upload Area ── */
+    .upload-area {
+      border: 2px dashed var(--border);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+      cursor: pointer;
+      transition: border-color 0.2s ease, background 0.2s ease;
+      background: #fafdf8;
+    }
+
+    .upload-area:hover {
+      border-color: var(--brand);
+      background: #f0f7ed;
+    }
+
+    .upload-area.has-file {
+      border-color: var(--brand);
+      border-style: solid;
+      background: #f0f7ed;
+    }
+
+    .upload-area input[type="file"] {
+      display: none;
+    }
+
+    .upload-icon {
+      font-size: 2rem;
+      margin-bottom: 6px;
+    }
+
+    .upload-text {
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .upload-text strong {
+      color: var(--brand);
+    }
+
+    .upload-filename {
+      margin-top: 8px;
+      font-size: 0.85rem;
+      color: var(--brand-2);
+      font-weight: 600;
+      word-break: break-all;
+    }
+
+    /* ── Image Preview ── */
+    .image-preview {
+      max-width: 260px;
+      max-height: 180px;
+      border-radius: 8px;
+      margin-top: 10px;
+      border: 1px solid var(--border);
+      display: none;
+    }
+
+    .upload-area.has-file .image-preview {
+      display: inline-block;
+    }
   </style>
 </head>
 <body>
   <main class="card">
     <section class="head">
       <h1>AI Crop Advisory</h1>
-      <p>Ask your crop question and get a practical answer from the RAG pipeline.</p>
+      <p>Ask your crop question or upload a photo for disease detection.</p>
     </section>
 
     <section class="body">
+      <!-- Text Query -->
       <div class="row">
         <label for="query">Your Question</label>
         <textarea id="query" placeholder="Example: What should I do for wheat rust disease?"></textarea>
       </div>
 
+      <div class="divider">or upload a crop image</div>
+
+      <!-- Image Upload -->
+      <div class="row">
+        <label>Crop Image (for disease detection)</label>
+        <div class="upload-area" id="uploadArea">
+          <div class="upload-icon">📷</div>
+          <div class="upload-text">
+            <strong>Click to browse</strong> or drag & drop an image here<br>
+            JPEG, PNG, or WebP — max 5 MB
+          </div>
+          <input type="file" id="imageInput" accept="image/jpeg,image/png,image/webp" />
+          <div class="upload-filename" id="fileName"></div>
+          <img class="image-preview" id="imagePreview" alt="Preview" />
+        </div>
+      </div>
+
+      <!-- Language Selection -->
       <div class="row">
         <label for="language">Language</label>
         <select id="language">
@@ -157,13 +264,16 @@
         </select>
       </div>
 
+      <!-- Action Buttons -->
       <div class="actions">
         <button id="askBtn" type="button">Get Advisory</button>
+        <button id="uploadBtn" type="button">Analyze Image</button>
         <button id="clearBtn" type="button">Clear</button>
       </div>
 
       <div id="status" class="status"></div>
 
+      <!-- Response -->
       <div class="row">
         <label for="answer">Response</label>
         <div id="answer" class="answer">Your advisory response will appear here.</div>
@@ -175,15 +285,69 @@
     const queryEl = document.getElementById("query");
     const languageEl = document.getElementById("language");
     const askBtn = document.getElementById("askBtn");
+    const uploadBtn = document.getElementById("uploadBtn");
     const clearBtn = document.getElementById("clearBtn");
     const statusEl = document.getElementById("status");
     const answerEl = document.getElementById("answer");
+    const imageInput = document.getElementById("imageInput");
+    const uploadArea = document.getElementById("uploadArea");
+    const fileNameEl = document.getElementById("fileName");
+    const imagePreview = document.getElementById("imagePreview");
 
     function setStatus(text, isError = false) {
       statusEl.textContent = text;
       statusEl.classList.toggle("error", isError);
     }
 
+    function disableButtons(disabled) {
+      askBtn.disabled = disabled;
+      uploadBtn.disabled = disabled;
+    }
+
+    // ── Click-to-browse on the upload area ──
+    uploadArea.addEventListener("click", () => imageInput.click());
+
+    // ── Drag & drop support ──
+    uploadArea.addEventListener("dragover", (e) => {
+      e.preventDefault();
+      uploadArea.style.borderColor = "var(--brand)";
+    });
+
+    uploadArea.addEventListener("dragleave", () => {
+      if (!imageInput.files.length) {
+        uploadArea.style.borderColor = "";
+      }
+    });
+
+    uploadArea.addEventListener("drop", (e) => {
+      e.preventDefault();
+      const file = e.dataTransfer.files[0];
+      if (file && file.type.startsWith("image/")) {
+        imageInput.files = e.dataTransfer.files;
+        showFilePreview(file);
+      }
+    });
+
+    // ── Show file name and preview when selected ──
+    imageInput.addEventListener("change", () => {
+      const file = imageInput.files[0];
+      if (file) {
+        showFilePreview(file);
+      }
+    });
+
+    function showFilePreview(file) {
+      fileNameEl.textContent = file.name;
+      uploadArea.classList.add("has-file");
+
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        imagePreview.src = e.target.result;
+      };
+      reader.readAsDataURL(file);
+    }
+
+    // ── Text Query (existing) ──
     async function askQuestion() {
       const query = queryEl.value.trim();
       const language = languageEl.value;
@@ -193,7 +357,7 @@
         return;
       }
 
-      askBtn.disabled = true;
+      disableButtons(true);
       setStatus("Getting response...");
       answerEl.textContent = "";
 
@@ -219,14 +383,63 @@
         setStatus("Could not connect to server. Make sure backend is running.", true);
         answerEl.textContent = "No response available.";
       } finally {
-        askBtn.disabled = false;
+        disableButtons(false);
       }
     }
 
+    // ── Image Query (new) ──
+    async function analyzeImage() {
+      const file = imageInput.files[0];
+      const language = languageEl.value;
+
+      if (!file) {
+        setStatus("Please select a crop image first.", true);
+        return;
+      }
+
+      disableButtons(true);
+      setStatus("Analyzing image...");
+      answerEl.textContent = "";
+
+      try {
+        const formData = new FormData();
+        formData.append("image", file);
+        formData.append("language", language);
+
+        const response = await fetch("/api/image-query", {
+          method: "POST",
+          body: formData,
+        });
+
+        const data = await response.json();
+
+        if (!response.ok || !data.success) {
+          const errorMsg = data?.error || "Image analysis failed.";
+          setStatus(errorMsg, true);
+          answerEl.textContent = "No response available.";
+          return;
+        }
+
+        answerEl.textContent = data?.data?.response || "No response available.";
+        setStatus("Image analysis complete.");
+      } catch (error) {
+        setStatus("Could not connect to server. Make sure backend is running.", true);
+        answerEl.textContent = "No response available.";
+      } finally {
+        disableButtons(false);
+      }
+    }
+
+    // ── Button listeners ──
     askBtn.addEventListener("click", askQuestion);
+    uploadBtn.addEventListener("click", analyzeImage);
 
     clearBtn.addEventListener("click", () => {
       queryEl.value = "";
+      imageInput.value = "";
+      fileNameEl.textContent = "";
+      imagePreview.src = "";
+      uploadArea.classList.remove("has-file");
       answerEl.textContent = "Your advisory response will appear here.";
       setStatus("");
       queryEl.focus();
