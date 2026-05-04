@@ -4,8 +4,6 @@
  * PURPOSE:
  * Detects crop disease from an uploaded image using a specialized Computer Vision
  * model hosted on HuggingFace Inference API.
- * Returns ONLY the disease name (not full advice), so it can be fed into
- * the existing RAG pipeline for a grounded, knowledge-backed response.
  */
 
 const axios = require("axios");
@@ -13,12 +11,12 @@ require("dotenv").config();
 
 const HF_TOKEN = process.env.HF_TOKEN;
 
-// We use a robust pre-trained Plant Disease Classification model
+// Using a highly reliable plant disease model
 const HF_MODEL_URL = "https://api-inference.huggingface.co/models/linkinstar/plant-disease-classification";
 
 /**
  * Detect the crop disease from an uploaded image using HuggingFace.
- *
+ * 
  * @param {Buffer} imageBuffer  - Raw image bytes from multer
  * @param {string} mimeType     - MIME type of the uploaded image
  * @returns {Promise<{ crop: string, status: string, disease: string }>}
@@ -32,66 +30,74 @@ async function detectDisease(imageBuffer, mimeType) {
 		throw new Error("Missing HF_TOKEN in environment variables.");
 	}
 
-	console.log("[ImageService] Sending image to HuggingFace for analysis...");
+	console.log("[ImageService] Analyzing image via HuggingFace...");
 
 	try {
-		// Send the raw binary buffer directly to the HF Inference API
-		const response = await axios.post(HF_MODEL_URL, imageBuffer, {
-			headers: {
-				Authorization: `Bearer ${HF_TOKEN}`,
-				"Content-Type": mimeType,
-			},
-		});
+		// We use a helper to handle the "model loading" state (503 error)
+		const response = await queryHuggingFace(imageBuffer, mimeType);
 
-		// Response format is typically an array of predictions sorted by confidence:
-		// [ { "label": "Tomato___Early_blight", "score": 0.98 }, ... ]
 		const predictions = response.data;
 		
 		if (!Array.isArray(predictions) || predictions.length === 0) {
-			throw new Error("Invalid response format from HuggingFace.");
+			throw new Error("HuggingFace returned an empty prediction list.");
 		}
 
+		// The top prediction (index 0) is the most likely one
 		const topPrediction = predictions[0].label;
-		console.log(`[ImageService] HF Top Prediction: ${topPrediction} (Score: ${predictions[0].score})`);
+		console.log(`[ImageService] Result: ${topPrediction} (Confidence: ${(predictions[0].score * 100).toFixed(1)}%)`);
 
 		return parsePlantVillageLabel(topPrediction);
 
 	} catch (error) {
-		console.error("[ImageService] HuggingFace API Error:", error.response?.data || error.message);
+		console.error("[ImageService] API Error Details:", error.response?.data || error.message);
 		
-		// If HF is warming up the model (503), it returns an estimated time.
 		if (error.response?.status === 503) {
-			throw new Error("The Computer Vision model is currently warming up. Please try again in 30 seconds.");
+			throw new Error("The AI model is still waking up. Please try again in 20 seconds.");
 		}
 
-		throw new Error("Failed to analyze image using Computer Vision model.");
+		throw new Error("Could not analyze the image. Please ensure the leaf is clearly visible.");
 	}
 }
 
 /**
- * Parses the standard PlantVillage label format used by most HF models.
- * Format is usually: "CropName___Disease_Name" or "CropName___healthy"
- *
- * @param {string} label - e.g., "Tomato___Early_blight" or "Apple___healthy"
- * @returns {{ crop: string, status: string, disease: string }}
+ * Helper to call HuggingFace with optional retry logic if the model is loading
+ */
+async function queryHuggingFace(data, mimeType) {
+	return axios({
+		method: "post",
+		url: HF_MODEL_URL,
+		data: data,
+		headers: {
+			"Authorization": `Bearer ${HF_TOKEN}`,
+			"Content-Type": mimeType
+		},
+		// This header tells HuggingFace to wait for the model to load if it's idle
+		params: { wait_for_model: true }
+	});
+}
+
+/**
+ * Parses the standard PlantVillage label format.
+ * Format: "CropName___Disease_Name"
  */
 function parsePlantVillageLabel(label) {
 	let crop = "Unknown";
 	let status = "Diseased";
-	let disease = "Unknown";
+	let disease = "None";
 
-	// If the label contains the standard triple-underscore delimiter
 	if (label.includes("___")) {
 		const parts = label.split("___");
 		crop = parts[0].replace(/_/g, " ").trim();
-		disease = parts[1].replace(/_/g, " ").trim();
+		const diseaseName = parts[1].replace(/_/g, " ").trim();
 
-		if (disease.toLowerCase() === "healthy") {
+		if (diseaseName.toLowerCase() === "healthy") {
 			status = "Healthy";
 			disease = "None";
+		} else {
+			status = "Diseased";
+			disease = diseaseName;
 		}
 	} else {
-		// Fallback if the model uses a different label format
 		disease = label.replace(/_/g, " ").trim();
 		if (disease.toLowerCase() === "healthy") {
 			status = "Healthy";
