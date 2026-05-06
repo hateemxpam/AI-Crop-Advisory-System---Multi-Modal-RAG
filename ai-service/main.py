@@ -62,13 +62,22 @@ def startup_event() -> None:
 	global embedding_service, vector_store
 
 	dataset_path = Path(__file__).resolve().parent / "data" / "knowledge.txt"
-	chunks = load_paragraph_chunks(dataset_path)
-
+	index_path = Path(__file__).resolve().parent / "data" / "faiss.index"
+	chunks_path = Path(__file__).resolve().parent / "data" / "chunks.json"
+	
 	embedding_service = EmbeddingService(model_name="all-MiniLM-L6-v2")
-	chunk_embeddings = embedding_service.encode(chunks)
-
 	vector_store = VectorStore()
-	vector_store.build(chunk_embeddings, chunks)
+
+	if index_path.exists() and chunks_path.exists():
+		print("[Startup] Loading existing FAISS index from disk...")
+		vector_store.load(str(index_path), str(chunks_path))
+	else:
+		print("[Startup] No existing index found. Building from knowledge.txt...")
+		chunks = load_paragraph_chunks(dataset_path)
+		chunk_embeddings = embedding_service.encode(chunks)
+		vector_store.build(chunk_embeddings, chunks)
+		vector_store.save(str(index_path), str(chunks_path))
+		print("[Startup] FAISS index built and saved to disk.")
 
 
 @app.post("/search", response_model=SearchResponse)

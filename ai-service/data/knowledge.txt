@@ -197,3 +197,3239 @@ Incorporate residues or compost them for long-term soil health.
 Conservation tillage reduces soil disturbance and protects topsoil.
 It helps reduce erosion and keeps moisture in dry periods.
 Combine reduced tillage with residue cover for better soil resilience.
+
+Sugarcane smut is a fungal disease of sugarcane caused by the fungus Sporisorium scitamineum. The disease is known as culmicolous, which describes the outgrowth of fungus of the stalk on the cane. It attacks several sugarcane species and has been reported to occur on a few other grass species as well, but not to a critical amount. The most recognizable characteristic of this disease is a black or gray growth that is referred to as a "smut whip". Resistance to sugarcane smut is the best course of action for management, but also the use of disease free seed is important. On smaller scale operations treatments using hot water and removing infected plants can be effective. The main mode of spore dispersal is the wind but the disease also spreads through the use of infected cuttings. Sugarcane smut is a devastating disease in sugarcane growing areas globally.
+
+Hosts and symptoms:
+
+Sugarcane smut infects all sugarcane species unless the species is resistant. The damage caused depends on the susceptibility of the species. Sugarcane fields are planted using vegetative cuttings from mother plants so they have the same genetic make-up of the parent plant. Seeds are not used in propagation because sugarcane is a multi-species hybrid and therefore is difficult to breed. Sugarcane smuts can also infect some other grass species outside of sugarcane. However, mostly it remains on plants of the genus Saccharum.
+
+Two to four months after the fungus has infected the plant, black whip-like structures, instead of a spindle leaf, emerge from the meristem, or growing point, of the plant. The developing whip is a mixture of plant tissue and fungal tissue. The whip reaches maturity between the sixth and the seventh month. When spores that are contained inside the whip are released, the core of the whip remains behind and is a straw-like color.
+
+Plants infected with the fungus usually appear to have thin stalks and are often stunted. They end up tillering much more than normal and this results in leaves that are more slender and much weaker. They sometimes appear more grass-like than non-infected plants. Less common symptoms of the disease are stem or leaf galls and proliferating buds.
+
+Disease cycle:
+
+Sugarcane smut is disseminated via teliospores that are produced in the smut whip. These teliospores located either in the soil or on the plant, germinate in the presence of water. After germination they produce promycelium and undergo meiosis to create four haploid sporidia. Sugarcane smut is bipolar and therefore produces two different mating types of sporida. For infection to occur, two sporida from different mating types must come together and form a dikaryon. This dikaryon then produces hyphae that penetrate the bud scales of the sugarcane plant and infect the meristematic tissue. The fungus grows within the meristematic tissue and induces formation of flowering structures which it colonises to produce its teliopores. The flowering structures, usually typical grass arrows, are transformed into a whip like sorus that grows out between the leaf sheaths. At first it is covered by a thin silvery peridium (this is the host tissue) which easily peels back when desiccated to expose the sooty black-brown teliospores. These teliospores are then dispersed via wind and the cycle continues. The spores are reddish brown, round and subovoid and may be smooth to moderately echinulate. The size varies from 6.5 to 8 um. Sugarcane cultivars intended for distribution to other geographical areas should be tested for susceptibility to S. scitamineum populations in each area.
+
+Environment:
+Sugarcane smut is a very widespread disease and is prevalent in Central and South America, Africa, and South-Western Asia. Sugarcane smut has been reported in all countries that lie between 20 degrees north and south of the equator. The pathogen does well in hot dry weather for most of the disease cycle but requires wet conditions for teliospores to germinate.
+Management:
+The management of sugarcane smut is done through the use of resistant cultivars, fungicide and using disease free planting stock. Control is mainly accomplished through the use of resistant cultivars in areas where the disease is present. Fungicides also are used in the control of this disease, but typically resistant cultivars are preferred due to the cost of fungicides. In areas where this disease is not yet found it is important to use disease-free planting stock so as not to introduce the pathogen. Important regulations are sometimes implemented by governments to help prevent the spread of the disease. Quarantines are also implemented in areas that are infected.
+Sugarcane smut can cause any amount of loss to susceptible varieties. Anywhere from 30% to total crop failure could be seen.The reduction in yield is mainly dependent on the races of the pathogen present, the variety of sugarcane, and the environmental conditions. Sugarcane plants are ratoon, meaning the plant resprouts after it is harvested providing the next crop.Because of this perennial nature, a total crop failure can lead to the need to replant a field. Now, it is typical to replace areas that have been infected with resistant varieties of sugarcane.
+
+Red rot is a very serious disease of sugarcane. The surest symptom of the disease is the reddening of the internal internodal tissues with crossbars of white patches in the reddened area. This red colour is caused by a dye which is secreted by the host and is antagonistic to the red rot fungus. Infection takes place through mother setts, holes in the nodal regions, the cut ends of the seed canes and other injuries. The disease causes damage to the sugarcane drop mainly by reducing the crop stands and by reducing the sucrose content of the cane juice. Methods of chemical control are mentioned, although the importance of good husbandry is stressed. Use of resistant varieties of sugarcane is recommended.
+
+
+Sugar Cane Rust
+
+After orange rust was first observed in 2007, it continued to increase in severity on susceptible cultivars throughout the summer growing season. Severe rust on newly emerged leaves in the upper canopy of CP80-1743 resulted in a greater number of "suckers" developing in the lower canopy. The effect was a lower sucrose content in juice extracted during commercial harvest of this cultivar. In 2008, orange rust developed first in plant crop fields of CP80-1743 because the plants were older. Symptoms were severe in February, and, except for abnormally dry periods in May, the disease continued to increase in distribution and severity. In 2009, Florida had a hard frost, and orange rust was slow to develop but increased in September 2009. Likewise, in 2010 and 2011, orange rust incidence was low during the summer but increased in September–October. In contrast, in 2012 the disease was already increasing on CP80-1743 in May and was severe during the summer months on all susceptible cultivars. During the 2013–2016 period, severe epidemics of orange rust occurred from May to August.
+
+Prior to 2000, orange rust was thought to be confined to Southeast Asia and Australia, where it was considered a minor disease of sugarcane. However, in the year 2000, a severe orange rust epidemic occurred in Australia where the disease attacked the principle grown cultivar Q124. At that time, Q124 occupied approximately 45% of the total commercial area in the country and close to 90% of the crop in central Queensland. Yield losses were reported as high as 50%, and direct monetary losses were estimated at 200 million Australian dollars for the period 2000–2001 (Magarey et al. 2011). Losses in Florida were estimated at 10% overall but were as high as 43% on the highly susceptible cultivar CP80-1743.
+
+SYMPTOMS
+
+The typical symptom of orange rust is a pustule (uredinial lesion) on the underside of the leaf. The pustule is oval in shape, measures 2–10 mm × 1–3 mm, and is cinnamon to orange in color. Depending on cultivar resistance level, pustules may be rare (or non-existent) to extensive on all the leaves. Orange rust pustules are easier to distinguish from those of brown rust on the younger, upper leaves than on the older, lower leaves. The spores of orange rust are orange, whereas the spores of brown rust are brown, as their names imply . Numerous coalescing pustules cause premature tissue death on leaves (Figure 3).
+
+CAUSAL AGENT
+
+Orange rust is caused by the fungus Puccinia kuehnii. It is an obligate parasite that is only known to infect sugarcane. Although the disease was introduced recently in Florida, several observations suggest occurrence of variation in virulence of P. kuehnii. Cultivar CP89-2143 was considered resistant to the disease up to 2010–2011, but it showed severe symptoms of orange rust during the 2012 and 2013 crop seasons, suggesting that the pathogen population may be more diverse than first thought. Recent laboratory investigations support the existence of pathogenic variants of the orange rust pathogen in Florida (Sanjel et al. 2016). It is also worth noting that the extensive outbreak of orange rust on cultivar Q124 in Australia in 2000 was attributed to the development of a new race of P. kuehnii.
+
+SPREAD OF THE DISEASE
+
+Spores of the orange rust pathogen are extremely numerous on infected leaves of susceptible plants and are easily dispersed by wind and rain. Leaf wetness is required for successful infection. In Florida, normal durations of nightly dew periods are sufficient for infection. Orange rust appears to cause infection at higher temperatures than brown rust, because orange rust is present during the summer when brown rust infection is limited. Orange rust infection continues to occur in the warmer summer months of June through September, although excessively hot periods can limit its development. In contrast, brown rust development decreases during the warm summer months. Thus, orange rust spreads both within and between fields throughout most of the sugarcane cropping season.
+
+How and from where the disease was introduced into the Western Hemisphere is not known. Transmission on seed cane is highly unlikely, because if seed cane could be contaminated with spores, the spores would then have to infect leaves in order to cause new infections. Similar to brown rust in the 1970s, it has been hypothesized that orange rust appeared in the Western Hemisphere as a result of transoceanic transport of urediniospores of P. kuehnii from Africa to the Americas.
+
+PREVENTION AND CONTROL
+
+The preferred method for controlling most rust diseases of plants is through the use of resistant cultivars. Unfortunately, many of the sugarcane cultivars that are commercially grown at the present time in Florida are not resistant to orange rust. Shifts to planting sugarcane clones resistant to orange rust will have to occur, and new sugarcane clones are now being screened for orange rust resistance within the CP sugarcane cultivar development program at Canal Point. This will ensure that resistant clones are released in the future. Presently, the number of resistant cultivars is limited and the supply of seed cane of resistant cultivars is insufficient for all new plantings. To complicate matters, new pathogenic races (strains of the rust pathogen) appear to arise as new varieties are expanded to large acreages. These may render resistance ineffective. With rust diseases being among the most economically important diseases of sugarcane, the development of durable resistance is of vital interest. It may be prudent for growers to diversify their cultivar holdings, allowing no cultivar to occupy more than 20%–25% of the total acreage to prevent catastrophic losses should a previously resistant cultivar become susceptible to a new rust pathogen variant or race. Additional control strategies—such as optimizing the planting date, modifying the crop's nutrition, and use of a disease prediction system—are currently being investigated.
+
+Since the pathogen's introduction to the United States, a number of fungicides have been registered for use in managing orange rust, and additional registrations are anticipated. Currently, there are two strobilurin class fungicides (FRAC group 11) registered for use—pyraclostrobin and azoxystrobin. Two triazole class fungicides (FRAC group 3) have also been approved for use—metconazole and propiconazole—and a third class, the carboxamides (FRAC group 7), were more recently approved. Three pre-mixtures of the aforementioned classes are also registered. Of the three classes, the strobilurins have displayed the best efficacy and should serve as the basis for any chemical control program. However, to minimize the risk posed by fungicide resistance, no more than two sequential applications of this class can be made, and therefore they should be rotated with one of the triazole or carboxamide fungicides.
+
+Fungicides may assist in reducing yield losses, and their effectiveness is determined by the number and frequency of applications. Economic benefits of fungicidal sprays have been obtained in commercial fields, but timing should be optimized to maximize returns. Due to the long duration of the cropping season, it is generally recommended that orange rust fungicide applications be made at 3- to 4-week intervals. The highest labeled rate should be used, particularly if applying at 4-week intervals, and a nonionic surfactant is recommended. In Florida, fungicide applications are recommended only on orange-rust-susceptible cultivars, beginning in the early summer months and extending into fall if conditions are favorable for disease persistence. Programs initiated in the fall (after considerable disease infection) have not proven to be effective or economically beneficial.
+
+Brown spot is caused by the fungus Cochliobolus miyabeanus.  Also called Helminthosporium leaf spot, it is one of the most prevalent rice diseases in Louisiana.When C . miyabeanus  attacks the rice plants at emergence,the resulting seedling blight causes sparse or inadequate stands and weakened plants.Leaf spots are present on young rice,but the disease is more prevalent as the plants approach maturity and the leaves begin to senesce.Yield losses from leaf infection or leaf spots probably are not serious.Brown spot is an indicator of unfavorable growing conditions,including insuffcient nitrogen,inability of the plants to use nitrogen because of rice water weevil injury,root rot or other unfavorable soil conditions.
+
+ Leaf spots are found throughout the season.On  young leaves,the spots are smaller than those on older leaves.The spots may vary in size and shape from minute dark spots to large oval to circular spots .The smaller spots are dark brown to reddish-brown. The larger spots have a dark brown margin and a light reddish-brown or gray center with a gold halo.The spots on the leaf sheath and hulls are similar to those on the leaves.The pathogen also attacks the coleoptiles,branches of the panicle,glumes and grains.The fungus causes brown,circular to oval spots on the coleoptile leaves of the seedlings.Damage from brown spot can be reduced by maintaining good rice growing conditions through proper fertilization, crop rotation, land leveling, proper soil preparation and water management. Seed protectant fungicides reduce the severity of seedling blight caused by this seed borne fungus. In addition, some rice varieties are less susceptible than others. Damage from brown spot can be reduced by maintaining good rice growing conditions through proper fertilization, crop rotation, land leveling, proper soil preparation and water management. Seed protectant fungicides reduce the severity of seedling blight caused by this seed borne fungus. In addition, some rice varieties are less susceptible than others.
+
+Blight or brown spots:
+
+Symptoms:
+
+This disease has been recorded all over the country. Initially small dots or circular eye-shaped or oval spots appear in light colour on the leaves. These spots coalesce and result in linear spots brown in colour. Later on the withering and the yellowing of leaves occur. The seed setting is affected and causes sterility, shrivelling and shows rotting and poor germination.
+
+Perpetuation:
+
+The diseased seeds plant debris and soils help the fungus to survive, while air and irrigation water helps fungus in transmitting from the diseased to healthy plants.
+
+Control:
+
+1) The use of resistant varieties or disease-free seed in healthy soils;
+
+2) Sanitation and crop rotation;
+
+3) Hot water seed treatment at 54C for 10 minutes or with seed dressing fungicides;
+
+4) Collection and destruction of stubble and spraying with copper fungicides at right time and;
+
+5) Application of suitable foliar fungicides to help minimize further dissemination of the disease.
+
+Stem Rot in Rice
+Stem Rot in Rice
+ 
+
+What it does
+
+Stem rot leads to formation of lesions and production of chalky grains and unfilled panicles.
+
+Why and where it occurs
+
+The infection bodies or sclerotic are found in the upper soil layer. They survive in air-dry soil, buried moist rice soil, and in tap water. They can also survive on straw, which is buried in the soil. The sclerotic float on irrigation water and infect newly planted rice during land preparation. Infection is high on plants with wounds as a result of lodging or insect attack. The panicle moisture content and nitrogen fertilizer also influence disease development.
+
+How to identify
+
+Check the plant for the following symptoms:
+
+Infected stem rots
+
+·         visible numerous tiny white and black sclerotic and mycelium inside the infected culms
+
+·         infected culm lodges and caused unfilled panicles and chalky grain
+
+Initial symptoms are small, irregular black lesions on the outer leaf sheath near water level. Lesions expand as the disease advances.
+
+Severe infection causes tiller death.
+
+Why is it important
+
+The infection is seen on the rice crop during early heading and grain filling. The leaf sheaths decay and cause lodging and lower grain filling. It can cause heavy losses in many countries. For example, in Japan, there are 51,000−122,000 hectares infected and estimated annual losses of 16,000−35,000 due to this disease. In Vietnam, the Philippines, and India, losses from 30% to 80% were recorded.
+
+How to manage
+
+·         Use resistant cultivars.
+
+Contact your local agriculture office for an up-to-date list of available varieties.
+
+ Burn straw and stubble or any crop residue after harvest or let the straw decompose.
+
+Drain the field to reduce sclerotic.
+
+Balance the use of fertilizer or perform split application with high potash and lime to increase soil pH.
+
+Chemicals such as fentin hydroxide sprayed at the mid-tillering stage, thiophanate-methyl sprayed at the time of disease initiation can reduce stem rot incidence in the rice field.
+
+Other fungicides such as Ferimzone and validamycin A also show effectivity against the fungus.
+
+ 
+
+Symptoms:
+
+Two to three months old plants begin to wither and ultimately dry up, the sheaths soon turn somewhat dark and start rotting. Black dots (fruiting bodies of sclerotia) occur at the base of dried leaves and leaf sheaths. Stem begins to rot and become soft, plant falls down.
+
+Perpetuation:
+
+Infested soil helps the organism for its survival.
+
+Control:
+
+1) Use of resistant varieties; 2) Burning of diseased rice stubble; 3) Crop rotation and; 4) Antagonistic organisms
+
+Bacterial blight
+Symptoms:
+
+Water-soaked stripes appear along the margin of leaf blades, which later on enlarge and turn yellow. These lesions may cover the entire blade, may extend to the lower end of leaf sheath. Similar symptoms may occur on glumes of green grains.
+
+Perpetuation:
+
+Survive in rhizophere of weed hosts, infected straw and root stubble. Disseminate by wind and water.
+
+Control:
+
+Cultivation of resistant varieties is alone easy and safe way to prevent the crop against diseases including this disease also.
+
+Rice blast
+
+Symptoms:
+
+Sometimes this disease is referred as Pyrricularia blight or rotten neck, generally distributed wherever rice is grown. Small spots appear on leaves, nodes, panicles and grains and some times on leaf sheaths. The spots begin as small, water-soaked, whitish, greyish or bluish dots. These spots rapidly increase and become grey in centre. Brown to black spots also develop on inflorescence and glumes. In later stages, the diseased heads appear blasted and whitish in colour. Grain development is affected and the panicles droop.
+
+Perpetuation:
+
+The disease perpetuates through the diseased plant debris lying in the field, seed and wild grasses.
+
+Control:
+
+1) Burn and destroy diseased plant debris and stubble;
+
+2) Early planting;
+
+3) Cultivation of resistant varieties;
+
+4) Use of healthy seed;
+
+5) Dusting the seed with any one of the organic mercurial seed dressing fungicides;
+
+6) Spray the crop with organo-mercurials;
+
+7) Avoid excessive depth application of irrigation water;
+
+8) Avoid excessive plant population and;
+
+9) Control grasses and other weeds.
+
+
+Cotton Leaf Curl Virus
+Symptoms
+Leaf curling
+Darkened veins
+Vein swelling
+Cup-shaped leaf enation
+Management
+Seed dressing insecticides, yellow sticky traps, Adulticides / Nymphicides are effective tools to suppress Whitefly .
+Resistant variety is the best solution
+
+Twig and Stem Blight of Cotton
+ 
+Symptoms
+Dieback initiating from the twigs with multiple lesions coalescing together on the stem, resulting in the death of the branches. 
+Abundant, black, and solitary pycnidia were observed on symptomatic twigs.
+Management
+Seed treatment is a pre-requisite. 
+Should maintain plant to plant and row to row distance.
+Should properly irrigate the field. Avoid excessive irrigation as it increases humidity that favors fungal growth.
+Use protectant spray if a favorable environment prevails for more than two days.
+Always keep in mind the wind direction while spraying the field.
+Spray the plant from head to bottom. 
+Following fungicides could be sprayed.
+ 
+ 
+Control:
+Amistar Top 325 SC ( Azoxystrobin + Difenoconazole ) 2 cc/lit of water.
+Nativo 75% WG (Tebuconazole + trifloxystrobin) 1g/lit of water
+Score 250EC ( Difenoconazole ) 1cc/lit of water
+
+1 Vol.:(0123456789) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports Construction of deep learning‑based disease detection model in plants Minah Jung 1,2,9, Jong Seob Song 2,9, Ah‑Young Shin 3,4,9, Beomjo Choi 3,5,9, Sangjin Go 3, Suk‑Yoon Kwon 3,6, Juhan Park 2, Sung Goo Park 1,7* & Yong‑Min Kim 3,4,8* Accurately detecting disease occurrences of crops in early stage is essential for quality and yield of crops through the decision of an appropriate treatments.
+
+However, detection of disease needs specialized knowledge and long-term experiences in plant pathology.
+
+Thus, an automated system for disease detecting in crops will play an important role in agriculture by constructing early detection system of disease.
+
+To develop this system, construction of a stepwise disease detection model using images of diseased-healthy plant pairs and a CNN algorithm consisting of five pre-trained models.
+
+The disease detection model consists of three step classification models, crop classification, disease detection, and disease classification.
+
+The ‘unknown’ is added into categories to generalize the model for wide application.
+
+In the validation test, the disease detection model classified crops and disease types with high accuracy (97.09%).
+
+The low accuracy of non-model crops was improved by adding these crops to the training dataset implicating expendability of the model.
+
+Our model has the potential to apply to smart farming of Solanaceae crops and will be widely used by adding more various crops as training dataset.
+
+Crop disease management is important in agriculture to increase yield and quality by reducing the economic and aesthetic damage caused by plant diseases.
+
+Although research into the causes and effective treatments for crop diseases is actively underway, monitoring plant health and early detection of pathogens are critical to reduce disease spread and facilitate effective ­management1.
+
+Detecting and protecting crops from pathogens is labor- intensive and time-consuming, making it virtually impossible for humans to analyze each ­plant2.
+
+Therefore, research on combining and applying new technologies to efficiently detect diseases has been conducted, and recently, research on detecting plant diseases in leaves using artificial intelligence (AI) is in ­progress3.
+
+Continued development of improved classification models, such as disease detection, or plant health monitoring, may enable AI-supported decision-making systems for smart ­agriculture4.
+
+Various studies have been carried out to apply deep learning algorithms more precisely to disease detection, such as applying newly developed ­architectures5,6, automatically detecting and classifying lesions in plant ­images7, or conducting research on preprocessing methods for incomplete ­images8 for practical use.
+
+Artificial Neural Network (ANN) is an AI technology with an analytic system inspired by the nerve system of the human brain that mimics the way the brain processes ­information9.
+
+ANN contains a three component processing unit consisting of input, hidden, and output ­layers10.
+
+Nodes of individual layers are connected to nodes of adjacent layers.
+
+Convolutional Neural Network (CNN) is a specialized method to recognize or assign images and consists of fully connected layers, numerous convolution layers, and pooling ­layers11.
+
+Three types of layers are arranged and connected differently depending on the model architectures and model performance is affected by this ­architecture12.
+
+­AlexNet13, ­VGG1914, ­GoogLeNet15, ­ResNet16, and ­EfficientNet17 are pre-trained OPEN 1Department of Functional Genomics, KRIBB School of Biological Science, Korea University of Science and Technology (UST), Daejeon, Republic of Korea.
+
+2Euclidsoft Co., Ltd, Daejeon, Republic of Korea.
+
+3Plant Systems Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, Republic of Korea.
+
+4Department of Bioinformatics, KRIBB School of Bioscience, Korea University of Science and Technology (UST), Daejeon, Republic of Korea.
+
+5Department of Environmental Horticulture, University of Seoul, Seoul, Republic of Korea.
+
+6Biosystems and Bioengineering Program, KRIBB School of Bioscience, Korea University of Science and Technology (UST), Daejeon, Korea.
+
+7Disease Target Structure Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, Republic of Korea.
+
+8Digital Bioinnovation Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, Republic of Korea.
+
+9These authors contributed equally: Minah Jung, Jong Seob Song, Ah-Young Shin and Beomjo Choi.
+
+*email: sgpark@kribb.re.kr; ymkim@kribb.re.kr 2 Vol:.(1234567890) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ CNN models created by changing the number, composition, arrangement, or calculation method of three types of layers, and ranked high in competition, the ImageNet Large Scale Visual Recognition Challenge (ILSVRC)18.
+
+These are pre-trained CNN models whose performance has been confirmed.
+
+CNN architecture development has focused on improving accuracy or efficiency.
+
+However, each architecture has its own unique characteristics and appropriate architectures are required for individual ­datasets19,20.
+
+Recently, these CNN algorithms have been used to develop various tools or programs for the detection or assignment of objectives in various ­fields21.
+
+In particular, detecting disease of plants using CNN algorithms were preferred rather than other deep learning ­algorithms22.
+
+Recently, CNN-based research have been carried out in ­plants23 and CNN analysis showed high performance in phenotypic ­analysis24.
+
+Thus, CNN-based phenotypic analyses have been reported in various crops such as classification of plant species, and detection of plant diseases in single or multiple species.
+
+To classify 44 species of the ILSVRC2012 dataset were classified using a pre-trained ­model18 proposed by ImageNet, and accuracy was shown as 97.7%25.
+
+In addition, about 94 percent accuracy was shown from VGG and AlexNet analysis with 42 species of image data from the IHLD dataset using ­Flavia26,27.
+
+Further analysis with disease data, 21 classes of 5 species were classified with MobileNetv2 with an accuracy of 90.38%28.
+
+Other study for classification of diseases for Bell pepper, an accuracy of 99.75% was shown using LBP + VGG-16 fused ­features29, Potato leaf were used for classification of diseases using a VGG16 and VGG19 architecture, and accuracy was shown 91%30.
+
+In tomato, ResNet50 showed a 97% accuracy in classification of six prevalent diseases in tomato ­leaf31.
+
+Here, a disease detection model for plants was constructed using images of diseased-healthy plant pairs and AI algorithms.
+
+To develop the disease detection model, 24,101 image pairs from nine crops were used with a CNN algorithm consisting of five pre-trained models.
+
+The detection model was consistent with three step clas- sification models.
+
+When constructing the detection model, the most accurate pre-trained model was selected as the final classification model from five different pre-trained CNN models.
+
+In addition to disease detection, the applicability to smart agriculture was confirmed by performing verification on crops not used in disease detection model training.
+
+Additionally, to investigate the pattern of symptoms and lesions of disease using our disease detection model, images of crop disease lesions were tested.
+
+This study has the following key contributions: First, a stepwise disease detection model was developed, and each step had specific purpose.
+
+To improve the accuracy, an optimal pre-trained CNN model was selected for each step.
+
+Second, the stepwise model was able to provide flexibility and efficiency to users by selecting individual steps according to their purpose.
+
+Efficient analysis might be possible when this model will be applied to the industrial field.
+
+Third, various types of validation tests were carried out to apply the industrial filed.
+
+To confirm the ability to disease detection, validation tests were carried out using lesion or whole leaf.
+
+To investigate effect of training data quality, and processed data and filed data were also tested.
+
+Then, to provide an ‘unknown’ detecting function, ’unknown’ was defined to increase accuracy.
+
+Results Crop detection and classification using leaf images.
+
+A three step detection model for plant diseases was constructed using healthy and disease leaf images of bell pepper, potato and tomato (Fig.
+
+1).
+
+In total, six sub- models based on CNN were developed for each step of the classification model after data augmentation (Fig.
+
+2).
+
+Five different pre-trained models such as ResNet50, AlexNet, GoogLeNet, VGG19, and EfficientNet were tested for each crop to develop the model (Supplementary Table S1).
+
+Each pre-trained model was optimized by tun- ing hyperparameters, such as batch size, epoch size, optimizer, activation function, learning rate, early stopping function, and loss function (Supplementary Table S2).
+
+In step 1, the crop classification model was constructed using diseased and healthy leaf images of 1911 bell pepper, 1448 potato, and 3150 tomato.
+
+Species of crops were recognized by submodel and assigned to one of three categories, bell pepper, potato, or tomato.
+
+After model training and validation, of the five different pre-trained CNN models, the model showing the highest accuracy using the separated test set was selected as the final model for step 1.
+
+As a result, it showed high accuracy in the order of EfficientNet, GoogLeNet, VGG19, AlexNet, and ResNet50 (Table 1).
+
+The classification model of EfficientNet architecture showed the highest accuracy of 99.33% and was selected as the final model for further analysis (Table 1).
+
+In addition to accuracy, measurement methods of were applied to measure the performance of the classification model.
+
+The precision, recall, and F1-score were also shown as high rate (Supplementary Table S3).
+
+Disease detection for individual crops.
+
+After accurate crop recognition, detection models were used to determine disease occurrence for individual crops by detecting the presence or absence of disease symptoms or patterns of symptoms in step 2 (Fig.
+
+3).
+
+Three individual models were developed to detect disease for bell pepper, potato, and tomato.
+
+As the bell pepper disease detection model, 1,165 healthy images and 746 diseased images were used for model training and validation, and GoogLeNet showed the highest accuracy in test.
+
+The accuracy of EfficientNet, VGG19, AlexNet, and ResNet50 were followed (Table 1).
+
+GoogLeNet, which showed the highest accuracy, was selected as the final model.
+
+In test, it showed an accuracy of 100.00%, and precision, recall, and F1-score were all 100.00% (Supplementary Table S3).
+
+For potato disease detection model used 118 healthy images and 1,330 diseased images for model training and validation, and VGG19 showed the highest accuracy in test.
+
+The accuracy of EfficientNet, GoogLeNet, ResNet50, and AlexNet were follows.
+
+The tests performed on the VGG19 showed the highest accuracy with 100.00%, and precision, recall, and F1-score were all 100.00% (Supplementary Table S3).
+
+As for the tomato disease detection model, 974 healthy images and 2,176 diseased images were used, and ResNet50 showed the highest accuracy in test.
+
+The other four models, GoogLeNet, VGG19, AlexNet, and Effi- cientNet showed less than the final model.
+
+The test performed on the ResNet50 showed the highest accuracy 3 Vol.:(0123456789) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ with 99.75%, and precision, recall, and F1-score were 99.75%, 99.75%, and 99.75%, respectively (Supplementary Table S3).
+
+Classification of diseases on leaves.
+
+If a disease was detected in step 2, it was necessary to determine the type of disease.
+
+In step 3, a disease classification model was created for potato and tomato (Supplementary Table S4).
+
+Two or more types of disease data were obtained for both potato and tomato.
+
+For potato, disease data (1662 images) was divided into two diseases: early blight (929 images) and late blight (733 images).
+
+For tomato, disease data (2,177 images) was divided into four diseases: bacterial spot (1,670 images), early blight (302 images), late blight (467 images), and tomato mosaic virus (281 images).
+
+To distinguish the two potato diseases, five different models were created using pre-trained CNN models.
+
+The highest test accuracy was shown in order of VGG19, EfficientNet, AlexNet, and GoogLeNet and ResNet50 (98.80%) was shown slightly low accu- racy (Table 1).
+
+The final model test results showed that the accuracy, precision, recall, and F1-score were 99.40%, 100.00%, 98.64%, and 99.32%, respectively (Supplementary Table S3).
+
+In the case of tomato, models were created and tested to distinguish the four diseases.
+
+EfficientNet had the highest test accuracy with 97.09%, and GoogLeNet, AlexNet, VGG19 showed accuracy of over 95% (Table 1).
+
+However, ResNet50 (87.80%) showed relatively low accuracy compared to the other four models.
+
+As the result of the final model, precision, recall, and F1-score were 97.19%, 97.09%, and 97.12%, respectively (Supplemen- tary Table S3).
+
+The result of both disease classification model tests confirmed the test set data were classified with high accuracy (> 97%).
+
+Because other performance measures, such as precision, recall, and F1-score, also showed high scores, the models were able to classify early and late blight, without bias.
+
+These results confirmed the stability of the classification model.
+
+Validation of the classification model using other crops.
+
+To generalize developed the classification model to other field such as model for classification of plant species or determining medicinal plants as well as smart farming, validation of other crops not used for model construction is required.
+
+To that end, the classifica- tion model was validated using leaf images of six crops: apple, cherry, corn, grape, peach, and strawberry.
+
+Since crops not used in model construction could not be identified using the disease detection model, these crops (non-model crops) were correctly classified as ‘unknown’.
+
+In case of corn and peach data, 92.06% and 91.66%, respectively, were classified as ‘unknown’, showing high accuracy in step 1.
+
+Apple (76.92%), strawberry (56.72%), cherry (45.67%), and grape (34.94%) data were less accurate.
+
+Apple in step 2 and grape in step 3 were classified as ’unknown’ with 87.30% and 90.64% frequency, respectively.
+
+Cherry and strawberry were classified as ’unknown’ less frequently, 60.07% and 64.04%, respectively (Fig.
+
+4a and Supplementary Table S5).
+
+Large differences were found in evaluating performance according to crop characteristics with non-model crops, whereas model crops were correctly classified in each step (Fig.
+
+4b and Supplementary Table S6).
+
+Figure 1.
+
+Overview of the dataset for disease detection models.
+
+Examples of image data from Solanaceae including bell pepper, potato, and tomato.
+
+4 Vol:.(1234567890) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ Because the evaluation of strawberry data showed relatively low accuracy, an additional model (model 1 with strawberry) that included strawberry was constructed to compare with the previously established step 1 model (model 1 without strawberry) (Supplementary Fig.
+
+S1a).
+
+Further validation was performed using diseased strawberry images taken in the field from ’The Open AI Dataset Project (AI-hub (https://​aihub.​or.​kr/​aidata/​ 30729), Republic of Korea)’ (Supplementary Fig.
+
+S1b).
+
+The accuracy of the strawberry detection was 56.72% in the model 1 without strawberry and 96.94% in the model 1 with strawberry (Supplementary Fig.
+
+S1c).
+
+The accuracy was increased by adding strawberry data during model construction by more than 30%.
+
+The results of validation using data from field indicated that 63.64% (70 of 110) of images were classified correctly in the model 1 without strawberry and 74.55% of (82 of 110) images were classified correctly in the model 1 with strawberry Figure 2.
+
+Workflow of the disease detection model.
+
+(a) Phenotypic data preprocessing after resizing the original image data and data augmentation through rotation.
+
+(b) Stepwise disease detection model of Solanaceae through a deep-learning algorithm.
+
+5 Vol.:(0123456789) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ (Supplementary Fig.
+
+S1c).
+
+Of the 110 AI-hub data images, 58 images were correctly classified in both the model 1 without strawberry and the model 1 with strawberry, and 12 and 24 images, respectively, had different results depending on the classification model.
+
+Taken together, these results indicate that the model 1 with strawberry was able to classify strawberry more accurately.
+
+Evaluation of the classification model using lesion cropped images.
+
+Evaluation of the classifica- tion models was conducted using entire leaf images and lesion cropped images to investigate the effect of appar- Table 1.
+
+Result of validation and test using five pre-trained CNN models.
+
+Step Crop Pre-trained model Accuracy Validation Test I Crop classification All ResNet50 92.34% 91.84% AlexNet 97.62% 96.87% GoogleNet 98.16% 99.08% VGG19 96.86% 98.71% EfficientNet 98.54% 99.33% II Disease detection Bell Pepper ResNet50 100.00% 98.32% AlexNet 98.96% 99.16% GoogleNet 100.00% 100.00% VGG19 99.74% 99.58% EfficientNet 99.48% 99.58% Potato ResNet50 100.00% 99.45% AlexNet 99.31% 98.90% GoogleNet 99.66% 99.45% VGG19 100.00% 100.00% EfficientNet 100.00% 99.45% Tomato ResNet50 99.68% 99.75% AlexNet 99.53% 99.45% GoogleNet 99.62% 99.62% VGG19 99.12% 99.62% EfficientNet 99.62% 98.23% III Disease classification Potato ResNet50 99.25% 98.80% AlexNet 98.88% 99.40% GoogleNet 99.63% 99.40% VGG19 99.63% 99.40% EfficientNet 97.75% 99.40% Tomato ResNet50 92.92% 87.80% AlexNet 92.47% 95.45% GoogleNet 94.29% 95.81% VGG19 95.66% 95.08% EfficientNet 96.35% 97.09% Figure 3.
+
+Diagram of disease detection model using CNN model.
+
+6 Vol:.(1234567890) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ ent symptoms on the model (Fig.
+
+5).
+
+First, crop classification models were created using entire leaf and lesion cropped images of early blight and late blight disease present in both potato and tomato (Fig.
+
+5a,b).
+
+All test sets of entire leaf images were correctly classified.
+
+The highest accuracy was shown in GoogLeNet pre-trained model, which classified early blight with 100.00% accuracy.
+
+For late blight, the accuracy was 97.51% (Table 2 and Fig.
+
+5c).
+
+The accuracy of the classification models was reduced when analyzing lesion cropped images in both early blight and late blight (Table 2 and Fig.
+
+5c).
+
+GoogLeNet pre-trained model had the highest accuracy predict- ing early blight, which was 95.56%.
+
+For late blight, VGG19 pre-trained model showed the highest accuracy with 70.62%.
+
+The accuracy was significantly different between early blight and late blight, especially when using lesion cropped images (p = 0.021, Wilcoxon rank sum test).
+
+Higher accuracy was shown in predicting early blight in Figure 4.
+
+Evaluation of the results of the stepwise detection model for plant diseases.
+
+(a) Correct evaluation results for each step using six other crops, which were not used to construct the model.
+
+(b) Correct evaluation results for each step using the three crops used to construct the model.
+
+7 Vol.:(0123456789) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ both entire leaf and lesion cropped images.
+
+In addition, the prediction performance of the classification model using lesion cropped images were lower than that of entire leaf images.
+
+These results might be caused by the low Figure 5.
+
+The effect of image resolution in construction of the classification model.
+
+Entire or cropped lesion images of (a) early blight and (b) late blight images.
+
+Potato and tomato leaf images are shown in the upper and lower panel, respectively.
+
+(c) Detection performance from the cross validation set, the upper plot is for early blight and the other one is for late blight.
+
+(d) Distribution of diagonal resolution for cropped lesion images was shown with the original image’s resolution (red line).
+
+8 Vol:.(1234567890) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ resolution (20 × 20 pixels) of lesion cropped images.
+
+Therefore, the effect of resolution was investigated in both early blight and late blight (Fig.
+
+5d), which indicated that image resolution did not affect the performance of clas- sification models in either disease.
+
+One of the major differences between both diseased images was the features of the symptoms (Fig.
+
+5a,b).
+
+For early blight, the color of the lesion is dark and clear, whereas the boundary of the lesion is vague and spread with lighter color in late blight (Supplementary Table S4).
+
+These data suggest the clas- sification model using CNN may reliably recognize the different symptoms between early blight and late blight.
+
+Discussion Crop monitoring, especially smart farming, plays an important role in agriculture to increase crop yield or qual- ity.
+
+Smart farming has become a crucial factor that has added indispensable value to agriculture and can help maintain high quality crops.
+
+Thus, development of AI-based disease monitoring programs will be an essential application of basic science to agriculture.
+
+In present study, a deep learning-based disease detection model was constructed to mimic disease recognition by humans in three major crops (Fig.
+
+2).
+
+Although many studies have been conducted to classify diseases of bell pepper, potato, and tomato using CNN ­models32–35, most of them a disease of a specific crop as one category and classify them all at once.
+
+However, our model differs in analyzing several stages because it assumes actual agricultural use.
+
+It can sequentially provide information about ’which crop’ is ‘diseased’ and ‘what the disease is’.
+
+The disease detection model was designed to recognize crops, detect disease, and determine the type of disease (Fig.
+
+2).
+
+Although the high-accuracy pre-trained CNN model was different for each step, validation using model crops indicated that the accuracies of the classification models were high enough for use in agriculture.
+
+In step 1, EfficientNet (99.30%) showed the highest accuracy among five pre-trained CNN models (Table 1).
+
+The model with the highest accuracy in step 2 was different for each crop.
+
+In step 3, EfficientNet was shown the highest accuracies in potato (99.40%) and tomato (97.09%).
+
+For tomato disease classification, ResNet50 has the highest accuracy (99.75%) in step 2, but is more than 5% less accurate than other pre-trained CNN models in step 1 (91.84%) and step 3 (87.80%).
+
+In step 1, bell pepper and potato are similar, and in step 3, the bacterial spot and early blight at tomato symptoms are similar, so the accuracy seems to be low.
+
+Collectively, ResNet50 seems to be less accurate when classifying images with high similarity, which is the same as the results of the previous study.
+
+According to previous studies, the CNN algorithm is considered suitable for disease detection of plants compared to ­others22.
+
+Among CNN pre-trained models, EfficientNet is shown the highest accuracy in recent ­studies36–38.
+
+In this study, EfficientNet showed good detection performance in several plant phenotypic data.
+
+However, detection performances depended on the morphological features or disease symptoms and the best performance might be shown in other pre-trained models.
+
+Thus, multiple pre-trained models need to be tested during the training step and determined optimal pre-model based on the accuracy of disease detection from evaluation data.
+
+Especially, to analyze data not used in the model, an ‘unknown’ category was defined and a test was con- ducted.
+
+To generalize the detection model, non-model crops must be distinguished and assigned them to the ‘unknown’ category.
+
+The classification model was further evaluated using six non-model crops, revealing rela- tively low accuracies compared to model crop (Fig.
+
+4a).
+
+The ’unknown’ was defined as the probability of correct assignment to its own category.
+
+Corn and peach, which show phenotypic differences in leaf shape, were mainly assigned to the ‘unknown’ category in step 1, and most were filtered out during step 1 (crop classification).
+
+Due to a similar phenotype, apple was classified as potato in step 1, and most of the misassigned images were classified as ’unknown’ in step 2 (disease detection).
+
+Apple leaf lesions have a specific characteristic that is distinguished from the model construction data.
+
+Similarly, most grape images were classified as tomato in steps 1 and 2, due to similar phenotype, but were classified as ’unknown’ in step 3.
+
+These results might be due to crop-specific lesion phenotypes of grapes.
+
+Cherry and strawberry, which have round-shaped leaves, were frequently misclassified as bell pepper and potato, respectively.
+
+However, these lower accuracies were improved by adding non-model crops to training datasets for model construction (Supplementary Fig.
+
+S1).
+
+In addition, classification models constructed with high quality preprocessed image data showed relatively higher performance compared to classification models constructed using field data (Supplementary Fig.
+
+S1c).
+
+Collectively, these data suggest the accuracy of the classification model depended on the depth, quality, and variety of image data for training during model construction.
+
+To further investigate the accuracy of disease detection, the ability of the classification model to accurately detect the same disease from different crops was examined (Fig.
+
+5).
+
+The results indicated that the accuracy of predicting early blight was higher than that of late blight.
+
+These differences might be caused by patterns or fea- tures of symptoms in diseased leaves that differ between early blight and late blight (Fig.
+
+5a,b).
+
+To confirm this hypothesis, lesions of diseased leaves were cropped, and a classification model was constructed using the cropped images of these lesions.
+
+These data indicated that the accuracy of models developed using lesion cropped images Table 2.
+
+Performance measurement of the model for validation using cross-species.
+
+Validation Disease Pre-trained model Performance Accuracy Precision Recall F1-score Crop cross Early blight GoogLeNet 100.00% 100.00% 100.00% 100.00% Late blight GoogLeNet 97.51% 97.55% 97.51% 97.50% Cropped image Early blight GoogLeNet 95.56% 95.99% 95.56% 95.65% Late blight VGG19 70.62% 80.15% 70.62% 64.53% 9 Vol.:(0123456789) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ were decreased in both diseases compared to models developed using an entire leaf and significantly decreased in early blight (Fig.
+
+5c).
+
+It is possible that use of low resolution images (20 × 20 pixels) might affect the accuracy of classification model.
+
+To address this, a correlation analysis between accuracy and image resolution was car- ried out (Fig.
+
+5d).
+
+In spite of the low resolution images, the crop lesion characteristics appear to be an important factor for classification as they are classified with more than 70.62% accuracy.
+
+To construct a generalized disease detection model, various situations in various field such as management system in smart farming and phenotypic analysis of disease had to be assumed and tested.
+
+Various data such as non-model crop images, crop images in field, and cropped images were used for the construction of the model.
+
+Especially, the ’unknown’ category was newly defined when the probability is less than a predetermined threshold based on the classification probability.
+
+The disease detection model can be generalized by unknown category based on this classification probability.
+
+Thus, the disease detection model can be applicable to phenotypic research such as verification of seed purity, detection disordered crops or improved crop varieties.
+
+CNN analysis is widely used for classifying or detecting objects using their images.
+
+In the field of plant research and agriculture, major phenotypic analysis studies mainly focus on classifying species, detecting tissues or organs, and detecting diseases or stress responses.
+
+Thus, CNN analysis can be widely applied to plant pheno- typic analysis or smart farming to monitor crops.
+
+In agriculture, CNN-based classification analysis is actively used in commercial crops, such as ­tomatoes39, ­corn40, and ­bananas41.
+
+These smart farming studies will help to automatically collect data, recognize events, and post-processing that could replace manpower in the near future.
+
+Similar to the human disease recognition process, plant disease was detected with sequential steps.
+
+This classifica- tion model provides a chance to identify crop species, disease occurrence, and disease type using a single image.
+
+A deep learning-based stepwise disease detection model was built and evaluated under various conditions for actual applications.
+
+A new category, ‘unknown’, was defined according to the probability of classification, and a cropped image or a field image was also used.
+
+But above all, to make the classification model more elaborate, more high quality images of various crops will be required for model construction, as well as an approach for developing a platform to apply this model to applications such as smart farming and studies of plant pathology.
+
+Conclusion In current study, a deep learning model was developed to detect multiple crop diseases.
+
+The disease detection model is composed of three steps to recognize crops (step 1), to determine disease occurrence (step 2), and to determine disease types (step 3).
+
+In each step, the optimal pre-trained CNN model that could be suitable for the data and purpose was selected and configured.
+
+To apply this model to the industrial filed, determination of unknown crops using images of crops that have not been used in model construction were added and ’unknown’ was defined to prevent false positives.
+
+Further studies should add a variety data of crops with and without diseases to create a generally usable disease classification model.
+
+Materials and methods Dataset description.
+
+Diseased and healthy plant leaves for the study were obtained from an open-source database, ­PlantVillage42.
+
+A total of 8121 healthy leaf images of bell pepper, potato, and tomato were obtained from nine crops.
+
+For the detection of disease, a total of 31,061 diseased leaf images were obtained, including bacterial spot of bell pepper, early blight caused by Alternaria tomatophila and Alternaria solani, and late blight caused by Phytophthora infestans of potato or tomato, and bacterial spot, and tomato mosaic virus of tomato (Supplementary Table S7).
+
+In the case of tomato, four diseases out of nine diseases were selected.
+
+It was selected to accurately detect diseases common to other crops and to identify diseases that threaten farms.
+
+Before con- structing the disease detection model, low quality images were filtered by horticultural experta (Supplementary Fig.
+
+S2).
+
+After image filtering, 18,445 and 6481 images of diseased and healthy leaves remained for subsequent analysis.
+
+To elaborate stepwise detection model for plant disease was constructed using Solanaceae correspond- ing to bell pepper, potato, and tomato of nine crops.
+
+Removing background of the image was selected instead of annotation using polygon for training set to develop models using shape of leaf or lesion of images (Fig.
+
+1 and Supplementary Table S4).
+
+Data preprocessing.
+
+To construct and test the stepwise detection model, the test data were separated from the entire dataset prior to model construction, to evaluate the performance of the final model.
+
+The whole dataset was divided 80:20 using stratified random sampling, with 80% of dataset serving as a training set and the remain- ing 20% of dataset used as a test set.
+
+Model construction and validation were performed using the training set.
+
+Five pre-trained CNN models were constructed and trained by sampling 80% of the training set and perform- ing validation using the remaining 20% of the training set.
+
+To improve accuracy and reduce time consumption, hyperparameters including batch size, epoch size, optimizer, activation function, learning rate, early stopping function, and loss function were ­tuned43.
+
+After that, of the five pre-trained CNN models, the model with the highest accuracy was selected from each pre-trained model.
+
+If the accuracy of the models were same, the model with the least loss is selected.
+
+Subsequently, the model with the highest test accuracy among the five pre-trained models was selected as the final model.
+
+To improve the performance of the disease detection model, it was necessary to use more data.
+
+Therefore, data augmentation was carried out to obtain more image data by manipulating the existing training dataset.
+
+The collected data has a large image size and leaf midrib directions are all different, images were resizing original images to 224 pixels and rotated to construct a classification model regardless of the angle of the picture and generate a more elaborate model (Fig.
+
+2a).
+
+Brightness or color shifts were not chosen as data augmentation methods because they likely interfere with the features of crop or diseased lesions.
+
+In the case of step 1, because all data were used, the amount was considerable.
+
+Therefore, the image data was rotated 20 degrees and amplified 10 Vol:.(1234567890) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ 18 times to be used as analysis data for computing power.
+
+For step 2 and 3, each image was rotated 10 degrees to augment the data 36 times.
+
+Stepwise detection model for plant diseases.
+
+The stepwise detection model was constructed with consecutive submodels to determine crops (step 1), disease occurrence (step 2), and disease types (step 3) by mimicking human detection (Fig.
+
+2b).
+
+This model was constructed using the CNN analysis method optimized for image analysis among deep learning analysis techniques (Algorithm 1).
+
+Each submodel was developed by fine- tuning using five different pre-trained CNN models: AlexNet, ResNet50, GoogLeNet, and VGG19 which ranked first or second in ­ILSVRC44,45, and EfficientNet which showed good performance in plant ­classification36–38.
+
+In step 1, a model to determine and classify cultivars was developed using images of an entire leaf, regardless of presence or absence of disease, in three Solanaceae family crops using five pre-trained CNN models (Fig.
+
+3).
+
+In step 2, disease occurrence was determined by dividing healthy and diseased leaves into two groups by submod- els.
+
+In step 3, disease types were determined by classification models for individual crop diseases using images of diseased leaves classified from step 2.
+
+For the bell pepper, only images from a single type of disease were obtained and the classification model could not be developed to distinguish multiple intraspecies diseases (Fig.
+
+2b).
+
+Algorithm 1.
+
+Stepwise Disease Detection Model Input: Healthy and diseased leaves of bell pepper, potato, and tomato Output: Classified images as species and disease types of leaf START: 1.
+
+Resize the image to 224 pixels 2.
+
+Split the data into 80% training set and 20% test set 3.
+
+18 times data augmentation by rotating 20 degrees of training data #Step1 : Crop Classification 4.
+
+Start training of five pre-trained CNN models using 80% of training set 5.
+
+Perform validation and tune hyperparameter 6.
+
+Classification kinds of sample through an activation function, Softmax 7.
+
+Determine optimal model with high validation accuracy 8.
+
+Test with data not used to train the model 9.
+
+#Step2 : Disease Detection 10.
+
+Start training of five pre-trained CNN models using 80% of each crop's training set 11.
+
+Perform validation and tune hyperparameter 12.
+
+Determine sample as healthy or diseased through an activation function, Softmax 13.
+
+Determine optimal model with high validation accuracy 14.
+
+Test with data not used to train the model #Step3 : Disease Classification 15.
+
+Start training of five pre-trained CNN models using 80% of training set of each crop's disease images 16.
+
+Perform validation and tune hyperparameter 17.
+
+Classification kinds of disease through an activation function, Softmax 18.
+
+Determine optimal model with high validation accuracy 19.
+
+Test with data not used to train the model END Evaluation stepwise detection model for plant diseases using diseased image data from other crops.
+
+To develop the detection model to a level that can be used for smart farming, apple, cherry, corn, grape, peach, and strawberry were used for evaluation.
+
+The six crops that were not used for model construction were defined as ’unknown’ because it was impossible to discriminate with our model.
+
+Therefore, the probability when determining one of the three crops, bell pepper, potato, and tomato is lower than a threshold value, it is predicted as ’unknown’.
+
+The prediction of the ’unknown’ is determined in step 1, step 2, and step 3.
+
+First, if ’unknown’ is determined in step 1, the analysis is finished.
+
+Even if it is incorrectly determined that it is not ’unknown’ in step 1, it can be determined as ’unknown’ through step 2 or step 3.
+
+The indicate function was used to classify ’unknown’ for each step.
+
+The indicate function determines ’unknown’ or the crops, ’unknown’ or disease existence, and ’unknown’ or disease types based on the probabilities of the disease detection model.
+
+The indicate function is 11 Vol.:(0123456789) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ used separately as I1 , I2 , and I3 in each step of step1, step2, and step 3.
+
+First, indicator function I1 of step1, for non-model crop evaluation sample l ( l = 1, · · · , L, L = the total number of evaluation samples), c1 is the crop with the highest probability among bell peppers, potatoes, and tomatoes in step 1, Th1 is the average of the probability of true positive test samples in step 1.
+
+N e x t , i n d i c a t o r f u n c t i o n I2 o f s t e p 2 , f o r e v a l u a t i o n s a m p l e m ( m = 1, · · · , M, M = the number of evaluation samples not classiﬁed as ′unknown ′in step1) c2 is the presence or absence of disease predicted in step 2 of the correctly predicted in step 1, Th2 is the average of the probability of true positive test samples in step 2.
+
+F i n a l l y, i n d i c a t o r f u n c t i o n I3 o f s t e p 3 , f o r e v a l u a t i o n s a m p l e n ( n = 1, · · · , N, N = the number of evaluation samples not classiﬁed as ′unknown ′in step1 and 2) c3 is a disease type if it is a result that there is a disease in potato or tomato through steps 1 and 2, Th3 is the aver- age of the probability of true positive test samples in step 3.
+
+Two groups of image data were used to evaluate the performance of this model.
+
+The first was crop images used for model construction (model crops), and the second was crop images that were not used for model construc- tion (non-model crops).
+
+Then, the results were distinguished by involvement of crops for model construction.
+
+In the case of detecting disease using non-model crops, ‘unknown’ was defined as correct, and assigned to model crops was defined as incorrect.
+
+In case of model crops, correct was accurate detection of disease, and incorrect was inaccurate detection of disease.
+
+Validation using lesion cropped image.
+
+A disease classification model was developed using cropped images of disease lesions.
+
+To investigate the performance of the disease classification model, whether it can be classified even with part of lesion images, the same diseased images from different crops were selected for valida- tion.
+
+Thus, disease lesion images of early blight and late blight in potato and tomato were cropped and used to develop the classification model.
+
+Measurement of model performance.
+
+Accuracy, precision, recall, and F1-score were calculated to evaluate the performance of the classification model.
+
+They were calculated based on the confusion matrix.
+
+After creating a confusion matrix by comparing the model test result with the actual condition, true positive (TP), true negative (TN), false positive (FP), and false negative (FN) values are obtained.
+
+‘True’ means the actual test sample was accurately predicted.
+
+Conversely, ‘false’ indicates a case of erroneous prediction.
+
+TP is when a test sample that is actually positive is accurately predicted as positive, and TN means that a negative test sample is accurately predicted as a negative sample.
+
+FP is a case in which the prediction result is positive when the sample is actually negative.
+
+FN refers to the number of cases in which the prediction result is negative, but the sample is actually positive.
+
+Accuracy refers to the percentage of correct predictions among all test results.
+
+Precision refers to the ratio of the actual positives among those predicted as positives.
+
+Conversely, recall refers to the percentage of actual positive samples predicted to be positive as a result of the test.
+
+The F1-score is the harmonic mean of precision and recall and is a corrected value to prevent misjudgment due to sample bias.
+
+Data availability Data used in the article are available in their original source.
+
+The PlantVillage dataset is available at https://​github.​ com/​spMoh​anty/​Plant​Villa​ge-​Datas​et and the AI-hub dataset at https://​aihub.​or.​kr/​aihub​data/​data/​view.​do?​ currM​enu=​115&​topMe​nu=​100&​aihub​DataSe=​realm​&​dataS​etSn=​237.
+
+Received: 8 August 2022; Accepted: 3 May 2023 References 1.
+
+Martinelli, F.
+
+et al.
+
+Advanced methods of plant disease detection.
+
+A review.
+
+Agron.
+
+Sustain.
+
+Dev.
+
+35, 1–25 (2015).
+
+2.
+
+Sankaran, S., Mishra, A., Ehsani, R.
+
+& Davis, C.
+
+A review of advanced techniques for detecting plant diseases.
+
+Comput.
+
+Electron.
+
+Agric.
+
+72, 1–13 (2010).
+
+3.
+
+Hasan, R.
+
+I., Yusuf, S.
+
+M.
+
+& Alzubaidi, L.
+
+Review of the state of the art of deep learning for plant diseases: A broad analysis and discussion.
+
+Plants 9, 1302 (2020).
+
+4.
+
+Zhu, N.
+
+et al.
+
+Deep learning for smart agriculture: Concepts, tools, applications, and opportunities.
+
+Int.
+
+J.
+
+Agric.
+
+Biol.
+
+Eng.
+
+11, 32–44 (2018).
+
+5.
+
+Shah, D., Trivedi, V., Sheth, V., Shah, A.
+
+& Chauhan, U.
+
+ResTS: Residual deep interpretable architecture for plant disease detection.
+
+Inf.
+
+Process.
+
+Agric.
+
+9, 212–223 (2022).
+
+6.
+
+Mahum, R.
+
+et al.
+
+A novel framework for potato leaf disease detection using an efficient deep learning model.
+
+Hum.
+
+Ecol.
+
+Risk Assess.
+
+Int.
+
+J.
+
+1–24 (2022).
+
+I1l = unknown if pl < Th1 c1 if pl ≥Th1, I2m = unknown if pm < Th2 c2 if pm ≥Th2, I3n = unknown if pn < Th3 c3 if pn ≥Th3, 12 Vol:.(1234567890) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ 7.
+
+Albattah, W., Nawaz, M., Javed, A., Masood, M.
+
+& Albahli, S.
+
+A novel deep learning method for detection and classification of plant diseases.
+
+Complex Intell.
+
+Syst.
+
+8, 507–524 (2022).
+
+8.
+
+Harakannanavar, S.
+
+S., Rudagi, J.
+
+M., Puranikmath, V.
+
+I., Siddiqua, A.
+
+& Pramodhini, R.
+
+Plant leaf disease detection using computer vision and machine learning algorithms.
+
+Glob.
+
+Trans.
+
+Proc.
+
+(2022).
+
+9.
+
+Maind, S.
+
+B.
+
+& Wankar, P.
+
+Research paper on basic of artificial neural network.
+
+Int.
+
+J.
+
+Recent Innov.
+
+Trends Comput.
+
+Commun.
+
+2, 96–100 (2014).
+
+10.
+
+Keskin, M.
+
+E.
+
+& Terzi, Ö.
+
+Artificial neural network models of daily pan evaporation.
+
+J.
+
+Hydrol.
+
+Eng.
+
+11, 65–70 (2006).
+
+11.
+
+Yamashita, R., Nishio, M., Do, R.
+
+K.
+
+G.
+
+& Togashi, K.
+
+Convolutional neural networks: An overview and application in radiology.
+
+Insights Imaging 9, 611–629 (2018).
+
+12.
+
+Zia, T.
+
+& Zahid, U.
+
+Long short-term memory recurrent neural network architectures for Urdu acoustic modeling.
+
+Int.
+
+J.
+
+Speech Technol.
+
+22, 21–30 (2019).
+
+13.
+
+Krizhevsky, A., Sutskever, I.
+
+& Hinton, G.
+
+E.
+
+Imagenet classification with deep convolutional neural networks.
+
+Adv.
+
+Neural.
+
+Inf.
+
+Process.
+
+Syst.
+
+25, 1097–1105 (2012).
+
+14.
+
+Simonyan, K.
+
+& Zisserman, A.
+
+Very deep convolutional networks for large-scale image recognition.
+
+arXiv preprint arXiv:​1409.​ 1556 (2014).
+
+15.
+
+Szegedy, C.
+
+et al.
+
+In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+1–9.
+
+16.
+
+He, K., Zhang, X., Ren, S.
+
+& Sun, J.
+
+In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+770–778.
+
+17.
+
+Tan, M.
+
+& Le, Q.
+
+In International Conference on Machine Learning.
+
+6105–6114 (PMLR).
+
+18.
+
+Russakovsky, O.
+
+et al.
+
+Imagenet large scale visual recognition challenge.
+
+Int.
+
+J.
+
+Comput.
+
+Vis.
+
+115, 211–252 (2015).
+
+19.
+
+Dhaka, V.
+
+S.
+
+et al.
+
+A survey of deep convolutional neural networks applied for prediction of plant leaf diseases.
+
+Sensors 21, 4749 (2021).
+
+20.
+
+Jung, M.
+
+et al.
+
+Deep learning algorithms correctly classify Brassica rapa varieties using digital images.
+
+Front.
+
+Plant Sci.
+
+12 (2021).
+
+21.
+
+Shrestha, A.
+
+& Mahmood, A.
+
+Review of deep learning algorithms and architectures.
+
+IEEE Access 7, 53040–53065 (2019).
+
+22.
+
+Lu, J., Tan, L.
+
+& Jiang, H.
+
+Review on convolutional neural network (CNN) applied to plant leaf disease classification.
+
+Agriculture 11, 707 (2021).
+
+23.
+
+Udayananda, G.
+
+& Kumara, P.
+
+In 2022 3rd International Conference for Emerging Technology (INCET).
+
+1–7 (IEEE).
+
+24.
+
+Ubbens, J.
+
+R.
+
+& Stavness, I.
+
+Deep plant phenomics: A deep learning platform for complex plant phenotyping tasks.
+
+Front.
+
+Plant Sci.
+
+8, 1190 (2017).
+
+25.
+
+Lee, S.
+
+H., Chan, C.
+
+S., Wilkin, P.
+
+& Remagnino, P.
+
+In 2015 IEEE International Conference on Image Processing (ICIP).
+
+452–456 (IEEE).
+
+26.
+
+Minarno, A.
+
+E.
+
+et al.
+
+In 2022 10th International Conference on Information and Communication Technology (ICoICT).
+
+99–104 (IEEE).
+
+27.
+
+Wu, S.
+
+G.
+
+et al.
+
+In 2007 IEEE International Symposium on Signal Processing and Information Technology.
+
+11–16 (IEEE).
+
+28.
+
+Moyazzoma, R., Hossain, M.
+
+A.
+
+A., Anuz, M.
+
+H.
+
+& Sattar, A.
+
+In 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST).
+
+526–529 (IEEE).
+
+29.
+
+Bhagat, M., Kumar, D.
+
+& Kumar, S.
+
+Bell pepper leaf disease classification with LBP and VGG-16 based fused features and RF clas- sifier.
+
+Int.
+
+J.
+
+Inf.
+
+Technol.
+
+15, 1–11 (2022).
+
+30.
+
+Sholihati, R.
+
+A., Sulistijono, I.
+
+A., Risnumawan, A.
+
+& Kusumawati, E.
+
+In 2020 International Electronics Symposium (IES).
+
+392–397 (IEEE).
+
+31.
+
+Kaushik, M., Prakash, P., Ajay, R.
+
+& Veni, S.
+
+In 2020 5th International Conference on Communication and Electronics Systems (ICCES).
+
+1125–1132 (IEEE).
+
+32.
+
+Jasim, M.
+
+A.
+
+& Al-Tuwaijari, J.
+
+M.
+
+In 2020 International Conference on Computer Science and Software Engineering (CSASE).
+
+259–265 (IEEE).
+
+33.
+
+Kurmi, Y.
+
+et al.
+
+Deep CNN model for crops’ diseases detection using leaf images.
+
+Multidimension.
+
+Syst.
+
+Signal Process.
+
+33, 981–1000 (2022).
+
+34.
+
+Singh, L., Pandey, M.
+
+& Lakra, S.
+
+In 2022 International Conference on Computational Intelligence and Sustainable Engineering Solutions (CISES).
+
+487–492 (IEEE).
+
+35.
+
+Al-Tuwaijari, J.
+
+M., Jasim, M.
+
+A.
+
+& Raheem, M.
+
+A.-B.
+
+In 2020 2nd Al-Noor International Conference for Science and Technology (NICST).
+
+7–12 (IEEE).
+
+36.
+
+Liu, J., Wang, M., Bao, L.
+
+& Li, X.
+
+In Journal of Physics: Conference Series.
+
+012148 (IOP Publishing).
+
+37.
+
+Srinidhi, V., Sahay, A.
+
+& Deeba, K.
+
+In 2021 5th International Conference on Computing Methodologies and Communication (ICCMC).
+
+1119–1127 (IEEE).
+
+38.
+
+Dheeraj, G., Anumala, P.
+
+K., Sagar, L.
+
+R., Krishna, B.
+
+V.
+
+& Bala, I.
+
+In 2022 6th International Conference on Intelligent Computing and Control Systems (ICICCS).
+
+1429–1434 (IEEE).
+
+39.
+
+Lawal, M.
+
+O.
+
+Tomato detection based on modified YOLOv3 framework.
+
+Sci.
+
+Rep.
+
+11, 1–11 (2021).
+
+40.
+
+Waheed, A.
+
+et al.
+
+An optimized dense convolutional neural network model for disease recognition and classification in corn leaf.
+
+Comput.
+
+Electron.
+
+Agric.
+
+175, 105456 (2020).
+
+41.
+
+Ucat, R.
+
+C.
+
+& Cruz, J.
+
+C.
+
+D.
+
+In 2019 International Symposium on Multimedia and Communication Technology (ISMAC).
+
+1–6 (IEEE).
+
+42.
+
+Hughes, D.
+
+& Salathé, M.
+
+An open access repository of images on plant health to enable the development of mobile disease diag- nostics.
+
+arXiv preprint arXiv:​1511.​08060 (2015).
+
+43.
+
+Moussafir, M.
+
+et al.
+
+Design of efficient techniques for tomato leaf disease detection using genetic algorithm-based and deep neural networks.
+
+Plant Soil 479, 251–266 (2022).
+
+44.
+
+Ahmad, I., Hamid, M., Yousaf, S., Shah, S.
+
+T.
+
+& Ahmad, M.
+
+O.
+
+Optimizing pretrained convolutional neural networks for tomato leaf disease detection.
+
+Complexity.
+
+2020 (2020).
+
+45.
+
+Hong, M.
+
+et al.
+
+Multi-class classification of lung diseases using CNN models.
+
+Appl.
+
+Sci.
+
+11, 9289 (2021).
+
+Author contributions Y.-M.K.
+
+conceived the project, designed the analysis, and organized the manuscript.
+
+M.J., J.S.S., A.-Y.S., and Y.- M.K.
+
+performed the deep-learning analysis.
+
+B.C., A.-Y.S., S.G., J.P., S.-Y.K., and S.G.P.
+
+generated the phenotypic data.
+
+M.J., A.-Y.S., S.G.P., and Y.-M.K.
+
+wrote the manuscript.
+
+Funding This work was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education [NRF-2021R1I1A2044678], the Technology Commercializa- tion Support Program [821026-03] (funded by a grant from the Ministry of Agriculture, Food, and Rural Affairs; the Ministry of Oceans and Fisheries; the Rural Development Administration; and the Korea Forest Service), and the Korea Forest Service of the Korean government through its R&D Program for Forestry Technology [Project No.
+
+2014071H10-2122-AA04] to Y.-M.K.
+
+13 Vol.:(0123456789) Scientific Reports | (2023) 13:7331 | https://doi.org/10.1038/s41598-023-34549-2 www.nature.com/scientificreports/ Competing interests The authors declare no competing interests.
+
+Additional information Supplementary Information The online version contains supplementary material available at https://​doi.​org/​ 10.​1038/​s41598-​023-​34549-2.
+
+Correspondence and requests for materials should be addressed to S.G.P.
+
+or Y.-M.K.
+
+Reprints and permissions information is available at www.nature.com/reprints.
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made.
+
+The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material.
+
+If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.
+
+To view a copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.
+
+© The Author(s) 2023
+
+Detection of cotton crops diseases using customized deep learning model Hafiz Muhammad Faisal1, Muhammad Aqib1, Saif Ur Rehman1, Khalid Mahmood2, Silvia Aparicio Obregon3,4,5, Rubén Calderón Iglesias3,6,7 & Imran Ashraf8 The agricultural industry is experiencing revolutionary changes through the latest advances in artificial intelligence and deep learning-based technologies.
+
+These powerful tools are being used for a variety of tasks including crop yield estimation, crop maturity assessment, and disease detection.
+
+The cotton crop is an essential source of revenue for many countries highlighting the need to protect it from deadly diseases that can drastically reduce yields.
+
+Early and accurate disease detection is quite crucial for preventing economic losses in the agricultural sector.
+
+Thanks to deep learning algorithms, researchers have developed innovative disease detection approaches that can help safeguard the cotton crop and promote economic growth.
+
+This study presents dissimilar state-of-the-art deep learning models for disease recognition including VGG16, DenseNet, EfficientNet, InceptionV3, MobileNet, NasNet, and ResNet models.
+
+For this purpose, real cotton disease data is collected from fields and preprocessed using different well-known techniques before using as input to deep learning models.
+
+Experimental analysis reveals that the ResNet152 model outperforms all other deep learning models, making it a practical and efficient approach for cotton disease recognition.
+
+By harnessing the power of deep learning and artificial intelligence, we can help protect the cotton crop and ensure a prosperous future for the agricultural sector.
+
+Keywords Agricultural economics, Deep learning, Cotton crop disease, Precision agriculture South Asia is the home of about half of the world’s malnourished population where agriculture is their primary source of livelihood1.
+
+These countries are known for their agricultural exports which comprise a significant portion of their gross domestic product (GDP).
+
+The fertile soil in the region allows for high crop yields, leading to surplus production and subsequent exports for over 50 years.
+
+This benefits farmers and cotton-related crops, which strengthens the country’s economy, thereby increasing the country’s GDP2.
+
+Therefore, to achieve economic stability and maximize crop revenue, it is crucial to achieve high-quality and high-quantity yields3.
+
+However, achieving better yield is difficult when pests, weeds, and animals attack the crops.
+
+Despite current practices, crop losses due to these factors remain substantial.
+
+In fact, between 2001 and 2003, 19 regions were reported bearing losses up to 50% for wheat, over 80% for cotton, as well as 26-29% for soybeans.
+
+These numbers are expected to increase in the near future2.
+
+Pakistan is a developing country with a total area of 796,095 km2, out of which 24.44% is arable land.
+
+Agriculture is the most significant contributor to Pakistan’s economy, sharing approximately 19% of total GDP, although there is potential in the agriculture sector to increase this percentage4.
+
+However, climate change, pest attacks, and water shortages have hindered agricultural growth.
+
+Pakistan has two cropping seasons and the first season starts in April and continues till December.
+
+Crops such as cotton, maize, green gram, mash, barley, sorghum, rice, and sugarcane are grown in this season.
+
+The second season continues from December to April, and yields crops like wheat, gram, and lentil barley.
+
+Pakistan’s primary crops include cotton, sugarcane, rice, wheat, and maize.
+
+1University Institute of Information Technology (UIIT), PMAS-Arid Agriculture University Rawalpindi, Rawalpindi 46300, Pakistan.
+
+2Institute of Computational Intelligence, Faculty of Computing, Gomal University, D.I.
+
+Khan 29220, Pakistan.
+
+3Universidad Europea del Atlántico, Isabel Torres 21, Santander 39011, Spain.
+
+4Universidad Internacional Iberoamericana, Campeche 24560, Mexico.
+
+5Universidad Internacional Iberoamericana Arecibo, Puerto Rico 00613, USA.
+
+6Universidade Internacional do Cuanza, Cuito, Bie, Angola.
+
+7Universidad de La Romana, La Romana, Dominican Republic.
+
+8Department of Information and Communication Engineering, Yeungnam University, Gyeongsan 38541, Republic of Korea.
+
+email: aqib.qazi@uaar.edu.pk; imranashraf@ynu.ac.kr OPEN Scientific Reports | (2025) 15:10766 1 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports Cotton is particularly important for Pakistan’s economy, accounting for 55% of the country’s total foreign exchange earnings and contributing 10% to GDP5.
+
+Pakistan is the fifth-largest cotton producer in the world, after China, India, America, and Indonesia6.
+
+Cotton crop is primarily grown in the provinces of Sindh and Punjab which produce approximately 75% of the total cotton crop produced in Pakistan annually.
+
+This crop is sown in March and April in Sindh, and in May to August in Punjab7.
+
+There are 59 different cotton varieties, each suited to different environmental conditions, planting times, recommended areas, and yield potential6.
+
+However, these varieties have to face various issues including disease attacks, requiring diligent care and timely spraying to prevent significant crop losses.
+
+Figure 1 shows cotton production during recent years6.
+
+The cotton crop, being the most vulnerable crop, is attacked by numerous pests and diseases that significantly affect its yield and quality.
+
+A number of diseases that affect cotton crops include Wilt, Rust, Anthracnose, Sore- Shin, Minor Boll-Rots, Mealybug, and Thrips8.
+
+Early detection of these diseases is crucial for obtaining a high- quality yield, and it is essential to implement effective management practices to control their spread.
+
+The cotton mealybug is a notorious sucking pest that feeds on the cell sap from cotton plants leaves, fruit, and twigs.
+
+This results in delayed growth and late opening of bolls, which can severely affect the yield.
+
+Mealybugs emit a sweet compound that draws ant colonies and encourages the growth of black sooty mold9.
+
+Thrips, a type of small insects, hardly visible to the unaided eye destroy the cotton crop seedlings at a mega level.
+
+With their pointed mouth parts, they suck the fragile leaves and terminal the buds and consume the juices.
+
+As a result, leaves get twisted and curl upward, develop a silvery tint, or grow brown edges.
+
+Light infestations of Thrips slow down the growth and maturation of plants, whereas strong infestations can kill terminal buds or even whole plants.
+
+Alternate branching patterns can also result from damaged terminal buds.
+
+Season and location have a significant impact on the length and severity of Thrips infestations9.
+
+Anthracnose is another common cotton disease that affects both the leaves and fruits.
+
+It is caused by a fungus from the Colletotrichum plant pathogenic group, which causes water-soaked dark lesions to appear on both the fruits and leaves10.
+
+Blight is another disease that damages various fruits and crops, including cotton.
+
+Symptoms of blight infection include yellowish color and dry leaves, and it is caused by the Helminthosporium turcicum Pass fungus, which severely damages cotton crops and renders them useless11.
+
+Deep learning (DL) has revolutionized numerous fields, showcasing remarkable success in areas such as healthcare for disease diagnosis12,13, autonomous systems for self-driving vehicles14, network security15, Natural language processing16, agriculture17, etc.
+
+Particularly in the agriculture domain, DL has been applied for tasks such as crop yield prediction18, classification using aerial imagery19, agricultural field monitoring20, stress identification in plants21, infected leaf detection22,23, etc.
+
+Highlighting the advancements of DL underscores its transformative potential and contextualizes its relevance to the present study24.
+
+Cotton is an important cash crop, and its diseases significantly impact the yield.
+
+Detection of diseases at an early stage helps farmers in taking preemptive measures to help improve cotton crop yields.
+
+DL-based object detection can automate the process, saving time and resources.
+
+These are the key factors that encourage researchers to work on these diseases and are the real motivation behind this study as well.
+
+This research primarily focuses on the accurate and timely detection of diseases in cotton crops.
+
+In this regard, the following are the main contributions of this study.
+
+Fig.
+
+1.
+
+An overview of cotton production for 2016 to 2021 in Pakistan6.
+
+Scientific Reports | (2025) 15:10766 2 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ • Collecting real-world data concerning four diseases found in cotton crops.
+
+The data are collected for diseases including ‘mealy bug’, ‘anthracnose’, ‘thrips’, and ‘blight’.
+
+• Evaluating deep learning models, particularly, convolutional neural networks (CNNs) variants for their capa­ bility to detect diseases involving image processing.
+
+• Preprocessing image data involving various steps such as color conversion, noise removal, etc., to improve the model’s training.
+
+• Comparing results of various models with respect to their accuracy, sensitivity, and specificity for detecting cotton crops, so that a robust and efficient approach can be provided for the best detection accuracy.
+
+The rest of this paper is organized as follows.
+
+Section "Literature review" provides an overview of AI and DL models.
+
+Section "Methodology" is allocated to methodology which describes the experimentation methodology applied in this paper.
+
+Moving forward, Section "Experimental results" contains all the details about experiments and result predictions.
+
+Finally, the discussion is concluded in Section "Conclusions".
+
+Literature review As technology advances, experiments lead to new inventions, and these experiments and inventions are applied in new fields.
+
+One such technology is artificial intelligence (AI), which has significantly impacted various domains including agriculture25.
+
+AI has facilitated a shift from hard-coded (non-evolving) solutions to automated mechanisms for a range of tasks through machine learning and DL.
+
+For example, to identify unique patterns across a large volume of resources, pages, links, and more, data mining is an effective technique26.
+
+During the COVID pandemic and beyond, researchers have utilized software engineering techniques and DL to enable remote learning, detect COVID based on images of X-ray, and analyze COVID-19 tweets for sentiment27–29.
+
+The problem addressed in30 is the detection of cotton plant diseases in order to yield healthy crops without any disease.
+
+The proposed work in the paper is to use deep transfer learning, specifically, the advantages of ResNet trained on ImageNet combined with the Xception component, for the recognition of cotton crop leaf diseases.
+
+Disease detection in cotton plants is accomplished in31 using DL techniques, more specifically deep CNNs.
+
+It applies a pre-trained model that was obtained from typical huge datasets to a particular job that was taught using their own data.
+
+Based on the experimental findings, ResNet-50 achieved validation and training accuracy of 0.98 and 0.95, respectively, with validation training loss of 0.5 and training loss of 0.33%.
+
+In agriculture, AI in conjunction with advanced algorithms and approaches to computer vision and DL, is highly beneficial in tasks such as detecting fruit and crop maturity, disease detection, and classification, based on feature extraction32 and other techniques33.
+
+Disease detection has been a major focus of research in agriculture, with many methods employed to achieve the most accurate results possible.
+
+Utilizing photographs of numerous cotton leaf spots that have been infected with various illnesses, sophisticated computing systems have been created, and pattern recognition techniques have been applied to improve disease detection accuracy33,34.
+
+DL has revolutionized how diseases are detected and classified in plants using computer-based techniques35.
+
+Due to its useful applications, it has been widely accepted in a variety of industries and is growing in popularity36.
+
+DL provides a mapping between input and output, making it an ideal choice for automated disease detection and classification.
+
+DL has been effectively used in recent years to recognize diseases in rice plants37, wheat disease detection and classification38, maize crop disease detection34,39, tomato disease detection40, soybean disease detection41, oilseed rape pest detection42, brain tumor detection and classification43, medical image steganalysis44, and transportation management, among many others45.
+
+CNNs are the most commonly used DL models46.
+
+In CNN, each node in a neural network is a mathematical function that takes numerical input from incoming edges, processes it, and then outputs numerical results.
+
+The challenge is to get as close as possible to the actual label/classification, which is the accuracy of that model.
+
+Deep learning has also been utilized for projects like predicting traffic47, object recognition48, natural language processing49, and autonomous unmanned aerial vehicle weed management50.
+
+The researchers collected a dataset of affected leaves from cotton crops from various locations in Sindh, Pakistan11.
+
+They employed the Inception v4 architecture as a CNN to recognize diseased plant leaves, and 98.26 accuracy has been achieved.
+
+DL and ML algorithms were used for crop disease identification.
+
+The Inception v4 architecture was utilized as a CNN for disease prediction.
+
+The problem addressed in the article30 is the detection of cotton plant diseases in order to yield healthy crops without any disease.
+
+The proposed approach uses deep transfer learning, for the diagnosis of cotton plant diseases, specifically a combination of the advantages of ResNet pre-trained on ImageNet and the Xception component.
+
+Disease detection in cotton plants is accomplished using DL techniques, more specifically deep CNNs.
+
+It applies a pre-trained model that was obtained from typical huge datasets to a particular job that was taught using their own data.
+
+According to the experimental findings, ResNet-50 achieved training and validation accuracy of 0.95 and 0.98, respectively, with training loss of 0.33 and validation loss of 0.5%.
+
+Due to plant diseases, the agricultural industry experiences substantial losses in food production and the extinction of species.
+
+Early detection of plant leaf ailments is essential to minimize economic losses and enhance food production quality51.
+
+The article52 utilized CNN-based pre-trained models, such as DenseNet-121, ResNet-50, VGG-16, and Inception V4, for efficient plant disease identification.
+
+The authors focused on fine- tuning the hyperparameters of popular pre-trained models and evaluated the performance through prediction of precision, recall, accuracy, and F1 score.
+
+DenseNet-121 achieved a classification accuracy of 99.81, which outperformed cutting-edge models.
+
+Future research will focus on issues with real-time data collecting and create a multi-object DL model that can identify plant diseases from a group of leaves, helping farmers and the agricultural industry identify leaf diseases in real-time leaf disease recognition53.
+
+The study54presents a hybrid DL method for evaluating leaf diseases against tomatoes.
+
+The method combines image features extracted by pre-trained CNNs with environmental metadata (e.g., temperature and humidity) Scientific Reports | (2025) 15:10766 3 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ for enhanced accuracy.
+
+Bayesian optimization fine-tunes the model’s hyperparameters to achieve optimal performance.
+
+The proposed approach outperformed traditional methods in accuracy, precision, and recall, demonstrating the importance of integrating multimodal data.
+
+This framework provides a robust solution for precise and efficient disease classification in tomato plants.
+
+The authors55 address the challenge of wheat leaf disease classification with limited datasets by evaluating data augmentation strategies and CNN-based models.
+
+Augmentation techniques like flipping, rotation, and cropping were applied to enhance dataset diversity.
+
+Pre-trained CNN architectures, including ResNet and VGG, were fine-tuned on the augmented data.
+
+Results showed significant performance improvements, with ResNet achieving the highest accuracy.
+
+The study highlights the effectiveness of data augmentation and CNNs in improving disease classification with limited data resources.
+
+In56, the focus is on enhancing crop productivity and sustainability by manipulating advanced DL techniques for disease identification in maize leaves.
+
+A large dataset is utilized to train a Vision Transformer (ViT) model, enabling accurate and efficient detection of various maize leaf diseases.
+
+This approach not only improves agricultural diagnostics but also contributes to sustainable farming practices by minimizing crop loss and promoting early intervention.
+
+The study highlights the potential of state-of-the-art AI models in addressing critical challenges in agriculture.
+
+Similarly, excellent results are reported in57 for sugarcane classification using ViT model.
+
+Along the same lines58, explores advancements in DL techniques for the precise classification of grape leaves and the effective diagnosis of grape diseases.
+
+By utilizing state-of-the-art models, the research aims to improve disease identification accuracy, contributing to better vineyard management and enhanced agricultural productivity.
+
+This approach highlights the role of modern AI in addressing challenges in viticulture and promoting sustainable farming practices.
+
+The study59 presents a customized CNN approach for accurately identifying weeds in cotton crops.
+
+By tailoring the CNN architecture to the specific needs of agricultural environments, the model enhances weed detection and classification, enabling targeted weed management.
+
+This advancement supports precision farming, reduces the overuse of herbicides, and promotes sustainable cotton cultivation practices.
+
+Convolution neural network In the area of image processing, CNN is the commonly employed DL model.
+
+Input data is represented via multidimensional arrays in CNN35.
+
+It functions nicely for a lot of labeled data.
+
+The entire input images are extracted by CNN, and this area is referred to as the receptive field.
+
+By the important function of the receptive field, it distributes weights to each neuron60.
+
+The three main parts of CNN are the convolution layer, the pooling layer, and the fully linked layer.
+
+The following section contains a brief discussion of various DL techniques.
+
+The research aims to develop a DL method for the recognition of cotton crop diseases like blight, anthracnose, and curl leaf virus.
+
+VGG16 A DL model named VGG was first presented in ILSVRC 2014.
+
+ImageNet large-scale visual identification challenge is the testbed for a few generations of large-scale image classification systems.
+
+VGG16 accepts images as input with fixed dimensions of 224×224.
+
+Afterward, preprocessing is done using a VGG16 preprocessor which performs the task of the meaning of subtracting RGB, using training data from each pixel to calculate, the image passes through the convolutional layers.
+
+3×3 convolutional filters are employed.
+
+Three fully connected layers proceed to the convolutional layer stack.
+
+The first two have 4096 channels, third, however, has 1000 classifications as ImageNet had thousand species to classify.
+
+The last layer is the SoftMax layer.
+
+For each network, the fully connected layer configuration is the same.
+
+This model has 138,357,544 parameters and is 528MBs in size.
+
+Its time per inference step for CPU and GPU is 69.50ms and 4.16ms respectively61.
+
+DenseNet DenseNet picks the idea of non-linear flow between layers.
+
+It proposes a different connectivity pattern, i.e.
+
+direct connections between every layer and every layer after it, which means that the last layer has a feature map of every layer before it.
+
+X = H1([x0, x1, ..., xl−1 (1) The combination of all the feature maps is referred to as x1, where x0 is the layer and l is another layer.
+
+Three dense blocks make up DenseNet, each with an equal number of layers.
+
+The input is subjected to a convolution of 16 output channels prior to entering the first dense block.
+
+Each side of the input for convolutional layers with 3×3 kernel size is zero-padded by one pixel to maintain the fixed size of the feature map.
+
+Following a 1×1 filter, a 2×2 average pooling layer serves as a connecting layer between two dense blocks.
+
+After the last Dense Layer block a Softmax activation function is used.
+
+There are numerous versions with various layer depths62.
+
+EfficientNet This model is inspired by MnasNet which is a deep learning model designed with a focus on mobile phone devices.
+
+EfficientNet has no multi-objective neural architecture search, rather, it uses the same search space as Mnasnet63.
+
+It uses the following formula as an optimization goal.
+
+ACC(m)x[FLOPS(x)] T ].w (2) Scientific Reports | (2025) 15:10766 4 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ where T is the goal FLOPS, w = -0.07 is the hyperparameter for managing the trade-off between accuracy and FLOPS, ACC(m) and FLOPS(m) denote the accuracy and flops of model m.
+
+EfficientNet optimizes the flops rather than latency since this model does not target the hardware.
+
+Efficientnet-B0 is the base model.
+
+It contains 1 layer of convolution layer of 3×3 filters followed by 16 layers of MBConv layer where MBConv layer means mobile inverted bottleneck convolution layer and conv 1×1 layer and pooling layer.
+
+All other variants of this model are made by using different compound coefficients.63.
+
+InceptionV3 InceptionV3 was first presented in the year 2015 and it is an improvement upon the already used InceptionV2 model.
+
+It has 42 layers in total and results in a lower rate of error than its counterparts i.e.
+
+InceptionV1 and InceptionV2.
+
+Its improvements mainly come from Smaller convolutions as a result of factorization, grid size reduction done efficiently, etc.64.
+
+MobileNet As a type of factorized convolution, depth-wise separable convolution layers that factorize a standard convolution are split into a depth-wise convolution and a pointwise convolution, which is a 1×1 convolution are the foundation of Mobilenet.
+
+It has 6 pairs of convolution layers followed by the depth-wise convolution layer with a variable filter shape.
+
+Then a convolution layer with 1×1 × 256 × 512 filter shape followed by 5 pairs of DWConv of 3×3×512 dw layer and Conv layer with 1×1×512×512.
+
+Then, two pairs of DWConv layer and Conv layer, average pooling layer, flatten layer, and softmax at last65.
+
+MobileNetV2 supports input sizes larger than 32 × 32 and employs inverted residual blocks with bottlenecking techniques66.
+
+NasNetMobile This model was introduced by Google.
+
+It is a DL model that comes trained on images of the popular dataset ImageNet having almost a million images.
+
+It is capable of classification of images into almost 1000 categories based on their classes.
+
+It takes input images of size 224×224 dimensions.
+
+This model has 5,326,716 parameters and is 23MB in size.
+
+Its time per inference step for CPU and GPU is 27.04ms and 6.70ms respectively.
+
+ResNet ResNet is inspired by the VGG DL model.
+
+The residual network is shown in Fig.
+
+3.
+
+In traditional convolutional feed-forward networks, the output layer of the lth layer is connected to the input layer of the (l + 1)th layer.
+
+ResNet includes a skip connection that omits the identity function’s non-linear changes.
+
+x = H(x −1) + x −1 (3) The convolution layers have 3×3 filters following two rules.
+
+First, the output feature map size of the layers uses the same number of filters.
+
+Second, if the feature map is cut in half, the number of filters must be increased in addition to maintaining the layer’s time complexity.
+
+Convolutional layers that have a stride of 2 perform downsampling.
+
+Because of ImageNet classification, the network has 1000 fully connected layers and a global average pooling layer at the end.
+
+The total number of weighted layers is the name of the model.
+
+So, ResNet-50 has 50 layers, 101 having 101 layers67.
+
+Xception Xception model has its influences from VGG-16, Inception, ResNet, and a number of other deep learning-based models that have more than 30 layers to form out the feature extraction process.
+
+With the exception of the first and last, these are divided into 14 modules and have linear residual connections surrounding them7.
+
+This model has 22,910,480 parameters and is 88MB in size.
+
+Its time per inference step for CPU and GPU is 109.42ms and 8.06ms respectively.
+
+Table 1 provides hyperparameters for all models used for experiments.
+
+Methodology Cotton crops suffer from a plethora of diseases.
+
+In this work, authors have focused mainly on the detection of Mealybug, Anthracnose, Thrips, and Blight diseases in cotton crops using DL-based models.
+
+Figure 2 depicts the Model Learning Rate Optimizer Dropout Rate Batch Size Epochs VGG-16 0.001 Adam 0.5 32 50 DenseNet 0.0001 SGD 0.4 64 50 NasNet Mobile 0.0005 RMSprop 0.3 32 50 EfficientNet 0.001 Adam 0.2 16 50 Inception V3 0.001 SGD 0.4 32 50 MobileNet 0.0005 Adam 0.2 32 50 ResNet 0.0001 SGD 0.3 64 50 Xception 0.0002 Adam 0.3 32 50 Table 1.
+
+Hyperparameter settings for training different models.
+
+Scientific Reports | (2025) 15:10766 5 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ proposed disease detection methodology that consists of four main phases.
+
+Data collection, data preprocessing, model training, and validation and detection.
+
+The first layer in the proposed methodology refers to the collection of input data or information that is provided to our system for training of detection model.
+
+This input dataset includes images of cotton crops including healthy and disease-affected plants in this case.
+
+After data collection, the augmentation technique is used to expand in scope and variety of input datasets by applying different techniques to the same data.
+
+For example, in image processing, augmentation may involve randomly cropping, rotating, or flipping images.
+
+After the application of augmentation techniques, images are labeled as per defined disease classes.
+
+Model training is the process of using the preprocessed input data and associated labels to train a DL algorithm or CNN.
+
+It involves feeding the data through the model and adjusting its parameters to reduce the variance between valuable output and real labels.
+
+Output is the final result produced by the proposed model, which can take many forms depending on the specific task being performed.
+
+As shown in Fig.
+
+2, labeled images are used as input to the detection model and it is trained to achieve the goal of accurate detection of diseases in cotton crops.
+
+Dataset collection In this work, real data on cotton crop diseases is collected from a cotton crop field located in South Punjab, Pakistan.
+
+Image data was collected when the crop was 7 weeks old.
+
+The data is collected in the month of August and during this month, the sun rises around 5:35 am and sets around 6:40 pm in the selected region of south Punjab.
+
+So, the first interval starts early morning before sunrise from 5:30 am to 7:00 am.
+
+Then after a break of 2 hours, data is collected around the midday time starting from 9:00 am to 11:00 am.
+
+The third interval starts after noon from 12:30 pm to 2:00 pm and the fourth interval starts in the evening from 5:00 pm to 7:00 pm.
+
+In the month of August, the weather of South Punjab remains very hot and dry and the temperature in a day remains between 88◦ F 100◦ F and sometimes goes beyond the upper limit.
+
+Humidity is always high during this period and remains between 40 to 50%.
+
+The dataset consisted of 5,600 color images of cotton plants captured by Vivo S1 Pro having a rear camera of 48MP.
+
+Using this device, high-resolution images of 4000×3000 pixels were captured.
+
+The data was collected in different illumination conditions and images were captured at three different time intervals of the day i.e.
+
+morning, afternoon, and evening to avoid the uniformity in data.
+
+Uniform datasets can possibly suffer from overfitting problems and result in higher accuracy but actually fail in the detection of diseases in real environments.
+
+Mealybugs and thrips do not specifically attack leaves, so the images of plant stems were collected for this purpose.
+
+For instance, the mealybug starts attacking the plant stem and then slowly moves towards the leaves.
+
+An overview of the disease-affected plants is given in Fig.
+
+3.
+
+There were 1400 images for each disease i.e.
+
+mealy bug, anthracnose, thrips, and blight in the dataset.
+
+The dataset was cleaned by removing the noisy and blurred images before further processing.
+
+As a result of this process, one thousand images for each category were selected and augmentation was performed to increase dataset size which ended up with a total of 8000 images for all diseases.
+
+DL models were trained on 2,000 images from all classes i.e.
+
+mealy bug, anthracnose, thrips, and blight.
+
+The reason for selecting an equal number of images from all classes is to avoid model biases or leaning towards a specific class by learning more of its features while avoiding other classes.
+
+For training, images were resized to 224×224 pixels.
+
+Table 2 shows image augmentation details.
+
+Data preprocessing Data preprocessing is crucial for model training as well.
+
+It enhances the quality of data to get meaningful features from the data.
+
+The process of the data input to output is shown in Fig.
+
+4.
+
+Data preprocessing refers to the technique(s) of converting raw data into processed data to make it suitable for training deep learning models.
+
+VGG16 preprocessor transforms images from RGB to BGR, after this each color channel is centered zero.
+
+In this procedure, input data are normalized to have a mean of 0 and standard deviation of 1 with respect to the ImageNet dataset, without scaling.
+
+Fig.
+
+2.
+
+An overview of cotton disease detection methodology.
+
+Scientific Reports | (2025) 15:10766 6 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ Training of models For experimentation, 18 DL CNN ground models were trained on the collected dataset to see which model achieved high accuracy for recognition and classification on the basis of performance metrics and hyper- parameters.
+
+All models have distinct configurations of convolution layer, flatten layer, dense layer, and pooling layers, For instance, VGG16 has 23 layers and it has two sets of two convolution layers and the pooling layer, then 3 sets of 3 convolution layers followed by the pooling layer and at the end, there is a global pooling layer.
+
+In each model, an input layer was added to obtain the images.
+
+Afterward, a rectified linear unit (ReLu) was added as an activation function, and a flatten layer with 64 nodes was added after the dense layer.
+
+Then, another flatten Image Transformation Mealy Bug Thrips Anthracnose Blight Original Images 1000 1000 1000 1000 Mixing Background Noise 250 250 250 250 Geometric Transformations 250 250 250 250 Color-based Transformations 250 250 250 250 Blurring and Sharpening 250 250 250 250 Total Images 2000 2000 2000 2000 Table 2.
+
+Image augmentation data for different classes.
+
+Fig.
+
+3.
+
+Cotton crop diseases, (a) Mealy bug, (b) Thrips, (c) Anthracnose, and (d) Blight.
+
+Scientific Reports | (2025) 15:10766 7 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ layer proceeded by a dense layer with 2 nodes as it is an output layer and the number of classes to be detected is two, and SoftMax as an activation function was used.
+
+Input layer, flatten, and dense layers configuration was integrated into all models.
+
+This was done to have a fair comparison while analyzing the results of these models.
+
+Each model was executed for 20 epochs and one epoch is defined as the number of forward and backward passes of the entire training dataset the learning algorithm has completed.
+
+The 20 epochs were selected on the observation that most of the models give the highest prediction within 20 epochs, not after that.
+
+Experimental results This section briefly discusses performance metrics and experimental setup first.
+
+Afterward, the results of all models are discussed.
+
+For the evaluation of trained models on the basis of prediction, different well-known performance metrics are used which are discussed here.
+
+Performance metrics The formula for calculating accuracy is given below.
+
+Accuracy = TP + TN TP + FP + TN + FN  (4) Basically, four things are needed for obtaining accuracy i.e., true positive (TP), true negative (TN), false positive (FP), and false negative (FN).
+
+TP is the number of actual positives that the model predicted correctly.
+
+TN is the actual positive that the model predicted incorrectly.
+
+FP is actual negatives that the model predicted incorrectly.
+
+FN is the actual negatives that the model predicted correctly.
+
+Recall is the measure of the model correctly recognizing true positives.
+
+It basically tells about the correctly recognized disease spots in plants.
+
+Mathematically it could be defined as shown below4.
+
+Recall = TP TP + FN  (5) Recall serves as a gauge of how well the model can locate the pertinent facts.
+
+It is also known as the true positive rate (TPR).
+
+Precision is the ratio between the TP and all the Positives.
+
+In this case, it could be used to highlight Fig.
+
+4.
+
+Flowchart of proposed methodology.
+
+Scientific Reports | (2025) 15:10766 8 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ the disease spots that were correctly recognized out of the total number of disease spots in the given testing dataset.
+
+The mathematical formula to calculate the Precision value is given below28.
+
+Precision = TP TP + FP  (6) We considered the accuracy of the model as the performance metric.
+
+Also, results are finalized after multiple successful iterations of models on the same data27.
+
+Experimental setup All the experiments are executed on a machine with a dedicated graphics card for model training and testing.
+
+Specifications for the used machine include Core i5 10th Gen Clocked at 2.90 GHz and NVIDIA GTX 970 4GB GPU.
+
+To evaluate how well-trained CNN models perform on unknown data, the dataset was split in the ratio of 70%, 20%, and 10% for training, testing, and prediction purposes respectively39.
+
+Below is the detail of all results achieved from all the applied deep learning models on the same dataset using this experimental setup.
+
+Results using VGG16 The experiments were started with the VGG16 model which achieved higher than 98% accuracy and the loss value reported during the training process was 0.0042.
+
+Training and validation results of the VGG16 model for accuracy and loss are shown in Fig.
+
+5.
+
+In the figure, training epochs are represented on the x axis while loss or accuracy values are shown on the y axis50.
+
+It can be seen that the accuracy of VGG16 improved during epochs and the model achieved its maximum performance after the 17th epoch.
+
+The performance remained almost constant after that point towards the ending epochs.
+
+Results of DenseNet model After experimenting with the VGG16 model, DenseNet is applied for the task of cotton disease detection i.e.
+
+mealy bug, anthracnose, thrips, and blight.
+
+Three variations of DenseNet i.e.
+
+DenseNet121, DenseNet169, and DenseNet201 are applied.
+
+All three models performed similarly with a minor detection difference in terms of accuracy.
+
+Training and validation graphs for accuracy and loss for different deployed DenseNet models are shown in Fig.
+
+6.
+
+Graphs contain epochs for all deployed models on the x axis and other metrics such as accuracy, loss, etc.
+
+on the y axis.
+
+It can be seen that DenseNet models have shown sudden graph ups and downs (variations) in near about the 10th epoch.
+
+All the models i.e.
+
+DenseNet121, DenseNet169, and DenseNet201 reported accuracy of more than 98% with loss of 0.217, 0.007, and 0.015, respectively.
+
+Results using EfficientNet model EfficientNet model was deployed for cotton disease detection after three variations of DenseNet models.
+
+The efficientNet model comes in different variations; we opted for the first three models i.e.
+
+EfficientNetB0, EfficientNetB1, and EfficientNetB2 for our experiments.
+
+For this model the learning rate is set to 1e-2, the dropout rate is 0.2 and the batch size used for this model is 64.
+
+Training and validation graphs for all these EfficientNet models are given in Fig.
+
+7.
+
+As with the above graphs, similarly, epochs are given at the x axis and other metrics are given at the y axis of graphs.
+
+It can be seen that there are variations in accuracy graphs till the 10th epoch.
+
+After the 10th epoch, all EfficientNet models are performing almost the same in terms of accuracy.
+
+The accuracy reported from all the EfficientNet models reaches up to 99%.
+
+Fig.
+
+5.
+
+Training and validation accuracy and loss of VGG16.
+
+Scientific Reports | (2025) 15:10766 9 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ Results Using InceptionV3 model The Inception V3 model from Google is used for the detection of mealybug, anthracnose, thrips, and blight diseases.
+
+It has reported a loss of 0.0022 with more than 95% accuracy.
+
+For this model the learning rate is set to 0.0001, the dropout rate is 0.6 and the batch size used for this model is 64.
+
+Graphs for training and validation accuracy and loss for the InceptionV3 model are shown in Fig.
+
+8.
+
+Fig.
+
+8.
+
+Training and validation accuracy and loss of InceptionV3 model.
+
+Fig.
+
+7.
+
+Training and validation accuracy and loss of EfficientNet model.
+
+Fig.
+
+6.
+
+Training and validation accuracy and loss of DenseNet model.
+
+Scientific Reports | (2025) 15:10766 10 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ It can be observed that InceptionV3 models fluctuate a bit in both the training and validation phases and it takes more time to slowly reach the maximum accuracy.
+
+It takes more time in comparison to other models that have already been tried.
+
+Results using MobileNet The next model in the line of experiments is MobileNet.
+
+It is a DL-based model optimized and created with a focus on mobile devices.
+
+These kinds of models are optimized well to work under lower specifications to achieve maximum detection accuracy and performance out of mobile hardware.
+
+These models are prime options for developing mobile-based detection applications.
+
+For our experimentation, we chose the MobileNetV1 and MobileNetV2 models.
+
+For this model the learning rate is 0.01, the dropout is 0.9, and the batch size is 32.
+
+Validation accuracy and loss graphs can be seen below in Fig.
+
+9.
+
+MobileNetV1 and MobileNetV2 models achieved almost similar training and validation accuracy of 97%.
+
+Results using Xception model Similar to other models, the Xception model is implemented for cotton crop disease detection.
+
+This model performed quite well and achieved an accuracy of more than 98%.
+
+Graphs for training and validation accuracy and loss are given in Fig.
+
+10.
+
+Xception’s accuracy graph went straight up in the first few epochs then it struggled a bit and slowly increased accuracy within more epoch cycles.
+
+Results using NasNet mobile Continuing on with experiments, the next model online for testing is NasNet mobile architecture.
+
+NasNet performed badly in comparison to other applied DL models.
+
+The NasNet mobile model has been able to achieve maximum training accuracy of 95% and validation accuracy of up to 95%.
+
+It is certainly not the better option to try while other DL models are available.
+
+It even took more time, and yet did not perform up to the mark.
+
+For this model the learning rate is 0.01, dropout is 0.6 and the batch size used for this model is 64 as well.
+
+Its graphs for training and validation accuracy as well as loss can be seen in Fig.
+
+11.
+
+Fig.
+
+10.
+
+Training and validation accuracy and loss of Xception model.
+
+Fig.
+
+9.
+
+Training and validation accuracy and loss of MobileNet model.
+
+Scientific Reports | (2025) 15:10766 11 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ Results using ResNet model In the end, an array of deep learning models that were trained for cotton disease detection are a collection of different variants of ResNet models.
+
+Different variations of ResNet models are applied and their graphs are shown in Fig.
+
+12 to Fig.
+
+17.
+
+The graphs of ResNet52 training and validation accuracy and loss are shown in Fig.
+
+12, followed by graphs of ResNet52V2 and ResNet101 training and validation accuracy and loss in Fig.
+
+13, and Fig.
+
+14.
+
+Similarly, training Fig.
+
+13.
+
+ResNet52v2 model accuracy and loss.
+
+Fig.
+
+12.
+
+ResNet52 model accuracy and loss.
+
+Fig.
+
+11.
+
+Training and validation accuracy and loss of NasNet mobile model.
+
+Scientific Reports | (2025) 15:10766 12 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ and validation accuracy and loss for ResNet101V2, ResNet152, and ResNet152V2 are given in Figs.
+
+15, 16, and 17, respectively.
+
+Results show that out of all the tested ResNet models, ResNet152 outperformed all the other competing variations of ResNet models in terms of inference time and accuracy for cotton disease detection.
+
+For the ResNet model, the learning rate is 0.01, dropout is 0.2 but the batch size was set as 32 or 64 for six different models of ResNet.
+
+A summary of results for all variants of ResNet is provided in Table 3.
+
+Fig.
+
+16.
+
+ResNet152 model accuracy and loss.
+
+Fig.
+
+15.
+
+ResNet101v2 model accuracy and loss.
+
+Fig.
+
+14.
+
+ResNet101 model accuracy and loss.
+
+Scientific Reports | (2025) 15:10766 13 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ Top performing models After analyzing the results and performance metrics of all the models, the results of the top four best models are discussed here with respect to their overall, as well as, class-wise performance.
+
+Table 4 shows the comparative analysis of the top four best-performing models concerning the accuracy, precision, F1 score, and recall metrics.
+
+It can be observed that the models perform well in general obtaining a 0.97 to 0.99 score for all metrics except for variations in class-wise performance.
+
+For example, the DenseNet model obtains an accuracy score of 0.95 for the healthy class.
+
+Similarly, the precision of the Tharpis class is 0.95 using the EfficientNet model, and recall for the Blight class is also 0.95 from the same model.
+
+The DenseNet model shows an F1 score of 0.96 for the Belight class.
+
+For the rest, the scores for all performance metrics vary between 0.97 and 0.99 indicating the superb performance of transfer learning models.
+
+Discussion and analysis The comparative analysis of state-of-the-art models for cotton disease detection reveals that while several architectures like EfficientNet, ResNet101, and DenseNet exhibit decent performance, their accuracy remains below 85%, as shown in Table 5.
+
+This limitation can be attributed to suboptimal feature extraction or shallow learning for complex patterns in disease images.
+
+Lightweight models such as MobileNet and NasNet Mobile trade accuracy for faster inference, making them unsuitable for high-precision applications.
+
+In contrast, ResNet152 surpasses these models by achieving an accuracy of 99%, due to its deeper architecture and efficient residual connections.
+
+These features enable robust feature representation and mitigate vanishing gradient issues, ensuring better generalization.
+
+While ResNet152 is computationally heavier than MobileNet, its performance justifies its use for real-world scenarios requiring high accuracy and reliability in disease classification tasks.
+
+This study highlights ResNet152’s potential as a superior solution for cotton disease detection and its significant contribution to advancing precision agriculture practices.
+
+Future work could explore hybrid architectures and optimized lightweight models to balance accuracy and efficiency.
+
+Many DL CNN models such as VGG16, AlexNet, DensNet, EfficientNet, Inception, MobileNet, NasNetMobile, Resnet, Xception, etc.
+
+have been proposed for the detection and classification of various weeds and diseases for cotton crops.
+
+These different methods include machine learning models, deep learning models, and image processing techniques.
+
+In addition, in the existing research, both supervised and unsupervised learning, as well as, reinforcement learning-based models have been designed and deployed for various tasks related to agriculture.
+
+Taken from Punjab, Rahim Yar Khan Pakistan, very little work has been done on cotton crops due to scarcity of data.
+
+This research particularly contributes in that direction and collects a large data from the actual fields from the process of germination to the arrival of the product.
+
+A rich variety of deep learning models have been implemented on the gathered dataset to analyze their performance for cotton crop disease detection.
+
+Model Training Accuracy Validation Accuracy Testing Accuracy ResNet50 100% 100% 100% ResNet50v2 92.8% 83.5% 89.9% ResNet101 88.8% 88.5% 89.9% ResNet101v2 87.1% 87.1% 94.9% ResNet152 100% 100% 100% ResNet152v2 77.7% 87.8% 88.3% Table 3.
+
+ResNet model results.
+
+Fig.
+
+17.
+
+ResNet152v2 model accuracy and loss.
+
+Scientific Reports | (2025) 15:10766 14 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ While pre-trained models differ in terms of convolutional layers, their results also vary.
+
+Disease detection in crops is a difficult task as different diseases may look similar on crop leaves.
+
+Researchers have worked on various datasets that are available on GitHub and Kaggle.
+
+Since these datasets are generally on a small scale, deep learning models do not provide sufficient results.
+
+Therefore, a large dataset for the cotton crop in this research is expected to solve this issue.
+
+Timely detection of cotton diseases is an important requirement of modern agriculture.
+
+In this regard, the proposed model has given excellent results.
+
+Dataset obtained from real fields, which included images of different classes including Blight, Thrips, Mealybug, and Anthracnose, is used to train different CNN models.
+
+The model was trained on a larger dataset with the layers transformation, and the augmentation technique was applied to further increase the data size.
+
+In the data augmentation technique, we used various means to augment the data like horizontal shift, rotation, vertical shift, and zooming.
+
+This research trained several models like MobileNet, NasNetMobile, Resnet, Xception, etc., and used performance metrics like precision, F1 score, recall, and accuracy.
+
+Results indicate that the VGG16 has an accuracy score of 0.943, DenSeNet achieved a 0.98 accuracy score while the EfficientNet models reached up to 0.99 accuracy score.
+
+On the other hand, Inception has more than a 0.95 accuracy score, and MobileNetV1 and MobileNetV2 models achieved almost similar training and validation accuracy of 0.97.
+
+The Xception model performed quite well and achieved an accuracy score of 0.98 percent.
+
+The NasNet Mobile model has been able to achieve a maximum accuracy score of 0.95.
+
+In addition, an array of deep learning models that were trained for cotton disease detection are a collection of different variants of ResNet models.
+
+Different variations of ResNet models are also applied.
+
+It is observed that the ResNet152 model obtains the best results for training, validation, and testing.
+
+The quality and diversity of the dataset play a significant role; a well-annotated and balanced dataset allows CNNs to generalize better, minimizing overfitting.
+
+The choice of hyper-parameters, including kernel size, Model Accuracy (%) Precision (%) Recall (%) F1-Score (%) VGG-16 82.5 80.3 81.2 80.7 DenseNet 84.2 83.1 82.7 82.9 NasNet Mobile 83.5 81.9 81.5 81.7 EfficientNet 84.8 83.6 84.1 83.8 Inception V3 84.5 83.3 82.8 83.0 MobileNet 84.0 82.7 83.0 82.8 ResNet101 84.7 83.5 83.9 83.7 Xception 83.8 82.4 82.6 82.5 Table 5.
+
+Comparison of cotton disease detection methods.
+
+Model Accuracy Belight Tharips Healthy MiliBug ResNet50 0.99 0.99 0.99 0.99 ResNet152 0.99 0.98 0.97 0.98 DenseNet 0.96 0.99 0.95 0.97 EfficientNet 0.98 0.97 0.99 0.98 Precision ResNet50 0.98 0.98 0.98 0.99 ResNet152 0.99 0.98 0.99 0.98 DenseNet 0.98 0.98 0.98 0.96 EfficientNet 0.99 0.95 0.98 0.93 Recall ResNet50 0.99 0.99 0.99 0.99 ResNet152 0.98 0.99 0.99 0.96 DenseNet 0.99 0.97 0.99 0.98 EfficientNet 0.95 0.97 0.99 0.98 F1 score ResNet50 0.99 0.99 0.99 0.99 ResNet152 0.99 0.98 0.99 0.99 DenseNet 0.96 0.98 0.99 0.97 EfficientNet 0.99 0.98 0.98 0.96 Table 4.
+
+Best-performing models for each class.
+
+Scientific Reports | (2025) 15:10766 15 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ number of layers, activation functions, and optimization techniques, also influences model performance.
+
+Furthermore, data augmentation techniques such as rotation, scaling, and flipping enhance model robustness by introducing variability.
+
+Lastly, the computational resources available, including high-performance GPUs and efficient training strategies, contribute to optimizing model convergence and improving overall classification performance.
+
+These factors collectively explain why certain models outperform others on the given dataset.
+
+Certain models, such as NasNetMobile, underperformed due to various challenges inherent to their architecture and computational requirements.
+
+While NasNetMobile achieved a maximum accuracy of 95%, it exhibited slower convergence and higher computational demands compared to other models.
+
+This underperformance may be attributed to its architectural complexity, which requires substantial computational resources and careful hyperparameter tuning to optimize performance.
+
+A computational analysis of trade-offs between lightweight models like MobileNet and complex models such as ResNet152 reveals critical differences.
+
+For instance, NasNetMobile, with a moderate number of trainable parameters, balances accuracy, and resource consumption but still requires longer training times compared to MobileNet.
+
+MobileNet, being lightweight, offers faster training and inference times, making it suitable for deployment in resource-constrained environments, albeit with slightly lower accuracy.
+
+Practical implications The findings of this study highlight the potential of the ResNet152 model as a reliable tool for cotton disease detection, with practical applications in real-time agricultural management systems.
+
+By integrating the model into mobile or web-based applications, farmers can upload images captured by smartphones or drones for instant disease analysis and actionable recommendations, enabling early detection, reduced crop losses, and optimized pesticide usage.
+
+However, practical deployment faces challenges, including the high computational demands of ResNet152, which require powerful hardware like GPUs or optimized edge devices, making it less accessible in resource-limited regions.
+
+Additionally, the costs associated with hardware, cloud integration, and model maintenance could hinder adoption among small-scale farmers, necessitating cost-effective solutions.
+
+Scalability across diverse environments and field conditions, along with the need for periodic model retraining, further complicates deployment.
+
+Lastly, in areas with limited internet access, offline capabilities or edge computing solutions will be crucial.
+
+Addressing these challenges can enable ResNet152 to become a key component in precision agriculture, empowering farmers with advanced technology for sustainable crop management.
+
+In particular, the following benefits can be obtained.
+
+• Improved precision agriculture: By leveraging deep learning models like ResNet152, this study highlights the potential for AI-driven automated disease detection, enabling early intervention to prevent crop losses.
+
+This can enhance precision agriculture practices, leading to higher yields and optimized pesticide usage, re­ ducing costs and environmental impact.
+
+• Need for scalable and low-cost solutions: The study’s reliance on high-computation models suggests the necessity of developing lightweight, mobile-friendly alternatives for real-time disease detection.
+
+Edge com­ puting and cloud-based models can help farmers in resource-limited settings by providing accessible, cost-ef­ fective solutions without requiring powerful GPUs.
+
+• Integration with IoT and smart farming technologies: Deep learning-based disease detection could be integrated with IoT-enabled smart farming systems, allowing real-time monitoring using drones, sensors, and automated spraying systems.
+
+This can help create a fully automated crop management system that alerts farmers to infections and suggests targeted treatments.
+
+Challenges and limitations The study on cotton crop disease detection using deep learning, particularly ResNet152, demonstrates high accuracy but has several limitations.
+
+The model’s real-world applicability is restricted due to its reliance on high-resolution images, which may not always be feasible in real farming conditions with poor lighting, extreme weather, or newly emerging diseases not included in the training dataset.
+
+Additionally, the model requires high computational power, making it unsuitable for real-time applications on mobile devices or resource-limited environments.
+
+The dataset, though diverse, includes only four disease types and may not generalize well across different regions.
+
+Moreover, the risk of overfitting exists due to dataset augmentation and uniform class distribution, which may not reflect real-world disease occurrence.
+
+The study lacks real-time deployment testing and does not address cost-effective solutions, such as lightweight models or edge computing for offline detection.
+
+One of the primary limitations of this study is the potential performance drop of the ResNet152 model under extreme real-world variations, such as severe weather conditions (e.g., excessive rain, drought, or poor lighting) and the presence of atypical or newly emerging cotton diseases not included in the training dataset.
+
+These factors could lead to reduced accuracy and misclassification due to the lack of robust generalization for such out-of-distribution data.
+
+Additionally, the model’s reliance on high-quality images might limit its effectiveness in scenarios involving blurred, noisy, or low-resolution images, which are common in real-world field conditions.
+
+Conclusions Recent advancements in deep learning have opened up new opportunities for the deployment of artificial intelligence techniques in various fields, including agriculture.
+
+In particular, deep learning models have shown excellent performance in crop management practices and particularly in disease detection.
+
+In this work, four cotton diseases were targeted Mealybug, Anthracnose, Thrips, and Blight.
+
+To explore the effectiveness of different deep learning models for cotton disease detection, eighteen deep learning models were trained and tested for performance comparison.
+
+Models were trained on the dataset collected from real fields, under various illumination conditions.
+
+The dataset was preprocessed and augmented to make it suitable for deep learning Scientific Reports | (2025) 15:10766 16 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ models.
+
+Through experimentation with different configurations and hyperparameters, it was observed that DenseNet169, EfficientNetB1, MobileNetV2, and ResNet152 outperformed other models in terms of detection accuracy and performance.
+
+Among these four models, the ResNet152 model demonstrated the highest accuracy in terms of training, testing, and validation.
+
+This leads to the conclusion that ResNet152 has the capability to detect crop diseases with high accuracy and it can be used in real-time scenarios.
+
+This research demonstrates the potential of deep learning models to improve significant disease detection in agriculture and other fields.
+
+In the future, these models can be embedded into the variable rate spraying technologies for precise spraying agrochemicals in the fields.
+
+In the future, integrating IoT devices and edge computing for real-time, lightweight disease detection and extending the model to other crops using transfer learning.
+
+Additionally, collaboration with agronomists and expanding datasets for diverse conditions will enhance accuracy and generalizability.
+
+Data availability The data can be requested from the corresponding authors.
+
+Received: 8 May 2024; Accepted: 17 March 2025 References 1.
+
+Pandey, V.
+
+L., Dev, S.
+
+M.
+
+& Jayachandran, U.
+
+Impact of agricultural interventions on the nutritional status in south asia: A review.
+
+Food policy 62, 28–40 (2016).
+
+2.
+
+Zhang, Q., Men, X., Hui, C., Ge, F.
+
+& Ouyang, F.
+
+Wheat yield losses from pests and pathogens in china.
+
+Agriculture, Ecosystems & Environment 326, 107821 (2022).
+
+3.
+
+Iqbal, T.
+
+et al.
+
+Development of real time seed depth control system for seeders.
+
+Environmental Sciences Proceedings 23(1), 7 (2022).
+
+4.
+
+Azam, A.
+
+& Shafique, M.
+
+Agriculture in pakistan and its impact on economy.
+
+A Review.
+
+Inter.
+
+J.
+
+Adv.
+
+Sci.
+
+Technol 103, 47–60 (2017).
+
+5.
+
+Latif, M.R., et al.
+
+Cotton leaf diseases recognition using deep learning and genetic algorithm.
+
+Computers, Materials & Continua 69(3) (2021) 6.
+
+Abbas, S., & Halog, A.: Analysis of pakistani textile industry: Recommendations towards circular and sustainable production.
+
+Circular Economy: Assessment and Case Studies, 77–111 (2021) 7.
+
+Chollet, F.: Xception: Deep learning with depthwise separable convolutions.
+
+In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp.
+
+1251–1258 (2017) 8.
+
+Chohan, S., Perveen, R., Abid, M., Tahir, M.N., & Sajid, M.: Cotton diseases and their management.
+
+Cotton Production and Uses: Agronomy, Crop Protection, and Postharvest Technologies, 239–270 (2020) 9.
+
+Manavalan, R.
+
+Towards an intelligent approaches for cotton diseases detection: A review.
+
+Computers and Electronics in Agriculture 200, 107255 (2022).
+
+10.
+
+Toscano-Miranda, R.
+
+et al.
+
+Artificial-intelligence and sensing techniques for the management of insect pests and diseases in cotton: A systematic literature review.
+
+The Journal of Agricultural Science 160(1–2), 16–31 (2022).
+
+11.
+
+Anwar, S., Kolachi, A.R., Baloch, S.K., & Soomro, S.R.: Bacterial blight and cotton leaf curl virus detection using inception v4 based cnn model for cotton crops.
+
+In: 2022 IEEE 5th International Conference on Image Processing Applications and Systems (IPAS), pp.
+
+1–6 (2022).
+
+IEEE 12.
+
+Fatima, A., et al.: Deep learning-based multiclass instance segmentation for dental lesion detection.
+
+In: Healthcare, 11, 347 (2023).
+
+MDPI 13.
+
+Karamti, H.
+
+et al.
+
+Improving prediction of cervical cancer using knn imputed smote features and multi-model ensemble learning approach.
+
+Cancers 15(17), 4412 (2023).
+
+14.
+
+Ashraf, I., Kang, M., Hur, S.
+
+& Park, Y.
+
+Minloc: Magnetic field patterns-based indoor localization using convolutional neural networks.
+
+IEEE Access 8, 66213–66227 (2020).
+
+15.
+
+Ashraf, I.
+
+et al.
+
+A deep learning-based smart framework for cyber-physical and satellite system security threats detection.
+
+Electronics 11(4), 667 (2022).
+
+16.
+
+Jalal, N., Mehmood, A., Choi, G.
+
+S.
+
+& Ashraf, I.
+
+A novel improved random forest for text classification using feature ranking and optimal number of trees.
+
+Journal of King Saud University-Computer and Information Sciences 34(6), 2733–2742 (2022).
+
+17.
+
+Pacal, I.
+
+et al.
+
+A systematic review of deep learning techniques for plant diseases.
+
+Artificial Intelligence Review 57(11), 304 (2024).
+
+18.
+
+Hoque, M.J., Islam, M.S., Uddin, J., Samad, M.A., De Abajo, B.S., Vargas, D.L.R., & Ashraf, I.: Incorporating meteorological data and pesticide information to forecast crop yields using machine learning.
+
+IEEE Access (2024) 19.
+
+Jamil, M., Rehman, H., SaleemUllah, I.
+
+A.
+
+& Ubaid, S.
+
+Smart techniques for lulc micro class classification using landsat8 imagery.
+
+Comput.
+
+Mater.
+
+Contin 74(3), 5545–5557 (2023).
+
+20.
+
+Kanwal, T.
+
+et al.
+
+An intelligent dual-axis solar tracking system for remote weather monitoring in the agricultural field.
+
+Agriculture 13(8), 1600 (2023).
+
+21.
+
+Ali, T.
+
+et al.
+
+Smart agriculture: utilizing machine learning and deep learning for drought stress identification in crops.
+
+Scientific Reports 14(1), 1–16 (2024).
+
+22.
+
+Tanveer, M.
+
+U.
+
+et al.
+
+Novel transfer learning approach for detecting infected and healthy maize crop using leaf images.
+
+Food Science & Nutrition 13(1), 4655 (2025).
+
+23.
+
+Pacal, I., & Işık, G.: Utilizing convolutional neural networks and vision transformers for precise corn leaf disease identification.
+
+Neural Computing and Applications, 1–18 (2024) 24.
+
+Santos, L., Santos, F.N., Oliveira, P.M., & Shinde, P.: Deep learning applications in agriculture: A short review.
+
+In: Robot 2019: Fourth Iberian Robotics Conference: Advances in Robotics, 1, 139–151 (2020).
+
+Springer 25.
+
+Aqib, M., Mehmood, R., Alzahrani, A., & Katib, I.: In-memory deep learning computations on gpus for prediction of road traffic incidents using big data fusion.
+
+Smart Infrastructure and Applications: Foundations for Smarter Cities and Societies, 79–114 (2020) 26.
+
+Mahmood, N., et al.
+
+: Mining software repository for cleaning bugs using data mining technique.
+
+Computers, Materials & Continua 69(1) (2021) 27.
+
+Chintalapudi, N., Battineni, G.
+
+& Amenta, F.
+
+Sentimental analysis of covid-19 tweets using deep learning models.
+
+Infectious disease reports 13(2), 329–339 (2021).
+
+28.
+
+Ali, S., Hafeez, Y., Abbas, M.
+
+A., Aqib, M.
+
+& Nawaz, A.
+
+Enabling remote learning system for virtual personalized preferences during covid-19 pandemic.
+
+Multimedia Tools and Applications 80, 33329–33355 (2021).
+
+29.
+
+Ismael, A.
+
+M.
+
+& Şengür, A.
+
+Deep learning approaches for covid-19 detection based on chest x-ray images.
+
+Expert Systems with Applications 164, 114054 (2021).
+
+30.
+
+Rajasekar, V., Venu, K., Jena, S.
+
+R., Varthini, R.
+
+J.
+
+& Ishwarya, S.
+
+Detection of cotton plant diseases using deep transfer learning.
+
+J.
+
+Mobile Multimedia 18(2), 307–324 (2022).
+
+Scientific Reports | (2025) 15:10766 17 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ 31.
+
+Saqib, M.
+
+A., Aqib, M., Tahir, M.
+
+N.
+
+& Hafeez, Y.
+
+Towards deep learning based smart farming for intelligent weeds management in crops.
+
+Frontiers in Plant Science 14, 1211235 (2023).
+
+32.
+
+Anitha, K., & Srinivasan, S.: Feature extraction and classification of plant leaf diseases using deep learning techniques.
+
+Computers, Materials & Continua 73(1) (2022) 33.
+
+Altalak, M., Ammad uddin, M., Alajmi, A.
+
+& Rizg, A.
+
+Smart agriculture applications using deep learning technologies: A survey.
+
+Applied Sciences 12(12), 5919 (2022).
+
+34.
+
+Khan, F.
+
+et al.
+
+Deep learning-based approach for weed detection in potato crops.
+
+Environmental Sciences Proceedings 23(1), 6 (2022).
+
+35.
+
+Aqib, M., Mehmood, R., Alzahrani, A., Katib, I.
+
+& Albeshri, A.
+
+A deep learning model to predict vehicles occupancy on freeways for traffic management.
+
+Int.
+
+J.
+
+Comput.
+
+Sci.
+
+Netw.
+
+Secu 18, 1–8 (2018).
+
+36.
+
+Khalid, S., Oqaibi, H.
+
+M., Aqib, M.
+
+& Hafeez, Y.
+
+Small pests detection in field crops using deep learning object detection.
+
+Sustainability 15(8), 6815 (2023).
+
+37.
+
+Latif, G., Abdelhamid, S.
+
+E., Mallouhy, R.
+
+E., Alghazo, J.
+
+& Kazimi, Z.
+
+A.
+
+Deep learning utilization in agriculture: Detection of rice plant diseases using an improved cnn model.
+
+Plants 11(17), 2230 (2022).
+
+38.
+
+Kumar, D.
+
+& Kukreja, V.
+
+Deep learning in wheat diseases classification: A systematic review.
+
+Multimedia Tools and Applications 81(7), 10143–10187 (2022).
+
+39.
+
+Haque, M.
+
+A.
+
+et al.
+
+Deep learning-based approach for identification of diseases of maize crop.
+
+Scientific reports 12(1), 6334 (2022).
+
+40.
+
+Fuentes, A., Yoon, S., Kim, S.
+
+C.
+
+& Park, D.
+
+S.
+
+A robust deep-learning-based detector for real-time tomato plant diseases and pests recognition.
+
+Sensors 17(9), 2022 (2017).
+
+41.
+
+Tetila, E.
+
+C.
+
+et al.
+
+Detection and classification of soybean pests using deep learning with uav images.
+
+Computers and Electronics in Agriculture 179, 105836 (2020).
+
+42.
+
+He, K., Zhang, X., Ren, S., & Sun, J.: Deep residual learning for image recognition.
+
+In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp.
+
+770–778 (2016) 43.
+
+Yapici, M., Karakiş, r., & Gürkahraman, K.: Improving brain tumor classification with deep learning using synthetic data.
+
+Computers, Materials and Continua 74(3) (2023) 44.
+
+Karakis, R.: Mi-steg: A medical image steganalysis framework based on ensemble deep learning.
+
+Computers, Materials & Continua 74(3) (2023) 45.
+
+Aqib, M.
+
+et al.
+
+Rapid transit systems: smarter urban planning using big data, in-memory computing, deep learning, and gpus.
+
+Sustainability 11(10), 2736 (2019).
+
+46.
+
+Aqib, M., Mehmood, R., Alzahrani, A., & Katib, I.: A smart disaster management system for future cities using deep learning, gpus, and in-memory computing.
+
+Smart infrastructure and applications: Foundations for smarter cities and societies, 159–184 (2020) 47.
+
+Aqib, M.
+
+et al.
+
+Smarter traffic prediction using big data, in-memory computing, deep learning and gpus.
+
+Sensors 19(9), 2206 (2019).
+
+48.
+
+Redmon, J., Divvala, S., Girshick, R., & Farhadi, A.: You only look once: Unified, real-time object detection.
+
+In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp.
+
+779–788 (2016) 49.
+
+Abdel-Hamid, O.
+
+et al.
+
+Convolutional neural networks for speech recognition.
+
+IEEE/ACM Transactions on audio, speech, and language processing 22(10), 1533–1545 (2014).
+
+50.
+
+Dutta, A.
+
+K., Albagory, Y., Sait, A.
+
+R.
+
+W.
+
+& Keshta, I.
+
+M.
+
+Autonomous unmanned aerial vehicles based decision support system for weed management.
+
+Cmc-Computers Materials & Continua 73(1), 899–915 (2022).
+
+51.
+
+Khan, F.
+
+et al.
+
+A mobile-based system for maize plant leaf disease detection and classification using deep learning.
+
+Frontiers in Plant Science 14, 1079366 (2023).
+
+52.
+
+Kaleem, A., Aqib, M., Saleem, S.
+
+R.
+
+& Cheema, M.
+
+J.
+
+M.
+
+Feasibility of ultrasonic sensors in development of real-time plant canopy measurement system.
+
+Environmental Sciences Proceedings 23(1), 22 (2022).
+
+53.
+
+Eunice, J., Popescu, D.
+
+E., Chowdary, M.
+
+K.
+
+& Hemanth, J.
+
+Deep learning-based leaf disease detection in crops using images for agricultural applications.
+
+Agronomy 12(10), 2395 (2022).
+
+54.
+
+Khan, B.
+
+et al.
+
+Bayesian optimized multimodal deep hybrid learning approach for tomato leaf disease classification.
+
+Scientific Reports 14(1), 21525 (2024).
+
+55.
+
+Ramadan, S.T.Y., et al.
+
+: Improving wheat leaf disease classification: Evaluating augmentation strategies and cnn-based models with limited dataset.
+
+IEEE Access (2024) 56.
+
+Pacal, I.
+
+Enhancing crop productivity and sustainability through disease identification in maize leaves: Exploiting a large dataset with an advanced vision transformer model.
+
+Expert Systems with Applications 238, 122099 (2024).
+
+57.
+
+Paçal, İ & Kunduracıoğlu, İ.
+
+Data-efficient vision transformer models for robust classification of sugarcane.
+
+Journal of Soft Computing and Decision Analytics 2(1), 258–271 (2024).
+
+58.
+
+Kunduracioglu, I.
+
+& Pacal, I.
+
+Advancements in deep learning for accurate classification of grape leaves and diagnosis of grape diseases.
+
+Journal of Plant Diseases and Protection 131(3), 1061–1080 (2024).
+
+59.
+
+Faisal, H.
+
+M.
+
+et al.
+
+A customized convolutional neural network-based approach for weeds identification in cotton crops.
+
+Frontiers in Plant Science 15, 1435301 (2025).
+
+60.
+
+Tharsanee, R., Soundariya, R., Kumar, A.S., Karthiga, M., & Sountharrajan, S.: Deep convolutional neural network–based image classification for covid-19 diagnosis.
+
+In: Data Science for COVID-19, pp.
+
+117–145.
+
+Elsevier, ??? (2021) 61.
+
+Simonyan, K., & Zisserman, A.: Very deep convolutional networks for large-scale image recognition.
+
+arXiv preprint arXiv:1409.1556 (2014) 62.
+
+Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K.Q.: Densely connected convolutional networks.
+
+In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp.
+
+4700–4708 (2017) 63.
+
+Tan, M., & Le, Q.: Efficientnet: Rethinking model scaling for convolutional neural networks.
+
+In: International Conference on Machine Learning, pp.
+
+6105–6114 (2019).
+
+PMLR 64.
+
+Chulu, F., et al.
+
+: A convolutional neural network for automatic identification and classification of fall army worm moth.
+
+International Journal of Advanced Computer Science and Applications 10(7) (2019) 65.
+
+Howard, A.G., et al.
+
+: Mobilenets: Efficient convolutional neural networks for mobile vision applications.
+
+arXiv preprint arXiv:1704.04861 (2017) 66.
+
+Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L.-C.: Mobilenetv2: Inverted residuals and linear bottlenecks.
+
+In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp.
+
+4510–4520 (2018) 67.
+
+He, Y., et al.: Application of deep learning in integrated pest management: A real-time system for detection and diagnosis of oilseed rape pests.
+
+Mobile Information Systems 2019 (2019) Author contributions HMF conceived the idea, performed data analysis and wrote the original draft.
+
+MA conceived the idea, per­ formed data curation and wrote the original draft.
+
+SUR performed data curation, formal analysis, and designed methodology.
+
+KM dealt with software, performed visualization and carried out project administration.
+
+SAO provided resources, dealt with software and performed validation.
+
+RCI acquired the funding for research, and performed visualization and initial investigation.
+
+IA supervised the research, performed validation and review Scientific Reports | (2025) 15:10766 18 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/ and edit the manuscript.
+
+All authors read and approved the final manuscript.
+
+Funding This research is funded by the European University of Atlantic.
+
+Declarations Competing interests The authors declare no conflict of interests.
+
+Additional information Correspondence and requests for materials should be addressed to M.A.
+
+or I.A.
+
+Reprints and permissions information is available at www.nature.com/reprints.
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material.
+
+You do not have permission under this licence to share adapted material derived from this article or parts of it.
+
+The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material.
+
+If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.
+
+To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​v​e​c​o​m​m​o​ n​s​.​o​r​g​/​l​i​c​e​n​s​e​s​/​b​y​-​n​c​-​n​d​/​4​.​0​/​.​ © The Author(s) 2025, corrected publication 2025 Scientific Reports | (2025) 15:10766 19 | https://doi.org/10.1038/s41598-025-94636-4 www.nature.com/scientificreports/
+

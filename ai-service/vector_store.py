@@ -2,6 +2,8 @@ from typing import List
 
 import faiss
 import numpy as np
+import json
+import os
 
 
 class VectorStore:
@@ -45,3 +47,19 @@ class VectorStore:
 		_, indices = self.index.search(query_embedding, safe_k)
 
 		return [self.chunks[i] for i in indices[0] if i != -1]
+
+	def save(self, index_path: str, chunks_path: str) -> None:
+		"""Save the FAISS index and text chunks to disk."""
+		if self.index is None:
+			raise RuntimeError("No index to save.")
+		faiss.write_index(self.index, index_path)
+		with open(chunks_path, 'w', encoding='utf-8') as f:
+			json.dump(self.chunks, f)
+
+	def load(self, index_path: str, chunks_path: str) -> None:
+		"""Load the FAISS index and text chunks from disk."""
+		if not os.path.exists(index_path) or not os.path.exists(chunks_path):
+			raise FileNotFoundError("Index or chunks file not found.")
+		self.index = faiss.read_index(index_path)
+		with open(chunks_path, 'r', encoding='utf-8') as f:
+			self.chunks = json.load(f)
