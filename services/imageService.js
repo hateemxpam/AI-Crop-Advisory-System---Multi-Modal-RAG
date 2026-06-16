@@ -1,114 +1,142 @@
 /**
  * imageService.js
  *
- * PURPOSE:
- * Attempts to analyze the image using the REAL HuggingFace Inference API first.
- * If the API fails (due to quota, cold start, or invalid token), it silently 
- * catches the error and falls back to a "Presentation Demo Mode" so the UI 
- * never crashes during a live demonstration.
+ * Sends the uploaded image to the local Python AI service (localhost:8000)
+ * which runs the HuggingFace MobileNetV2 plant disease model fully offline.
+ *
+ * Returns the raw model result with confidence score.
+ * The controller decides how to handle low-confidence predictions.
  */
 
 const axios = require("axios");
-require("dotenv").config();
 
-const HF_MODEL_URL = "https://api-inference.huggingface.co/models/linkanjarad/mobilenet_v2_1.0_224-plant-disease-identification";
+const PRIMARY_URL  = "http://127.0.0.1:8000/analyze-image";
+const FALLBACK_URL = "http://localhost:8000/analyze-image"; // Windows DNS fallback
 
+// Minimum confidence required to treat the model's label as reliable.
+// Below this threshold the detection is flagged as "uncertain" so downstream
+// code can adjust the query and response accordingly.
+const CONFIDENCE_THRESHOLD = 0.50;
+
+/**
+ * Detect crop disease by running the MobileNetV2 model locally.
+ *
+ * @param {Buffer} imageBuffer  - Raw image bytes from the uploaded file
+ * @param {string} mimeType     - MIME type (e.g. "image/jpeg", "image/png")
+ * @returns {Promise<{
+ *   crop: string,
+ *   status: string,
+ *   disease: string,
+ *   confidence: number,
+ *   isHighConfidence: boolean,
+ *   rawLabel: string
+ * }>}
+ * @throws {Error} if the Python AI service is unreachable or returns an error
+ */
 async function detectDisease(imageBuffer, mimeType) {
 	if (!imageBuffer || !Buffer.isBuffer(imageBuffer)) {
 		throw new Error("detectDisease requires a valid image buffer.");
 	}
 
-	const token = process.env.HF_TOKEN;
+	console.log("[ImageService] Sending image to local Python AI service...");
 
-	console.log(`[ImageService] Attempting REAL image analysis via HuggingFace...`);
+	let lastError = null;
 
-	try {
-		if (!token) {
-			throw new Error("No HF_TOKEN found. Skipping to fallback.");
+	for (const url of [PRIMARY_URL, FALLBACK_URL]) {
+		try {
+			const response = await axios({
+				method: "post",
+				url,
+				data: imageBuffer,
+				headers: { "Content-Type": mimeType },
+				timeout: 30000, // Local inference can take a few seconds
+			});
+
+			const { label, score } = response.data;
+
+			if (!label) {
+				throw new Error("AI service returned an empty label.");
+			}
+
+			const confidence = typeof score === "number" ? score : 0;
+			const isHighConfidence = confidence >= CONFIDENCE_THRESHOLD;
+
+			console.log(
+				`[ImageService] Model result: "${label}" (${(confidence * 100).toFixed(1)}% confidence) — ` +
+				`${isHighConfidence ? "HIGH confidence ✓" : "LOW confidence ⚠ — vision LLM will determine diagnosis"}`
+			);
+
+			const parsed = parsePlantVillageLabel(label);
+
+			return {
+				...parsed,
+				confidence,
+				isHighConfidence,
+				rawLabel: label,
+			};
+
+		} catch (error) {
+			lastError = error;
+			const status = error.response?.status;
+			const msg    = error.response?.data?.detail || error.message;
+			console.warn(`[ImageService] Call to ${url} failed (${status ?? "N/A"}): ${msg}`);
 		}
-
-		// Attempt real inference
-		const response = await axios({
-			method: "post",
-			url: HF_MODEL_URL,
-			data: imageBuffer,
-			headers: {
-				"Authorization": `Bearer ${token}`,
-				"Content-Type": mimeType
-			},
-			// Give it max 8 seconds to respond; otherwise fallback
-			timeout: 8000 
-		});
-
-		const predictions = response.data;
-		
-		if (Array.isArray(predictions) && predictions.length > 0) {
-			const topPrediction = predictions[0].label;
-			console.log(`[ImageService] Real HF Result: ${topPrediction} (Confidence: ${(predictions[0].score * 100).toFixed(1)}%)`);
-			return parsePlantVillageLabel(topPrediction);
-		} else {
-			throw new Error("HuggingFace returned an empty or invalid prediction.");
-		}
-
-	} catch (error) {
-		const status = error.response?.status;
-		const msg = error.response?.data?.error || error.message;
-		console.warn(`[ImageService] Real HF API Failed (Status ${status || 'N/A'}): ${msg}`);
-		console.log(`[ImageService] Engaging Presentation Fallback Mode...`);
-		
-		return getFallbackDetection();
 	}
+
+	// Both URLs failed — throw so the controller returns a proper error to the user.
+	throw new Error(
+		`Plant disease model is unavailable. Make sure the Python AI service is running: ` +
+		`cd ai-service && uvicorn main:app --host 127.0.0.1 --port 8000. ` +
+		`Detail: ${lastError?.message}`
+	);
 }
 
 /**
- * Parses the raw HuggingFace model labels into the standardized format
+ * Parses the raw model label into a structured { crop, status, disease } object.
+ *
+ * This model returns labels in one of two formats:
+ *   Format A (PlantVillage standard): "Tomato___Early_blight"
+ *   Format B (human-readable):        "Tomato with Early Blight"
  */
 function parsePlantVillageLabel(label) {
-	let crop = "Unknown";
-	let status = "Diseased";
+	let crop    = "Unknown";
+	let status  = "Diseased";
 	let disease = "None";
 
 	if (label.includes("___")) {
-		const parts = label.split("___");
-		crop = parts[0].replace(/_/g, " ").trim();
-		const diseaseName = parts[1].replace(/_/g, " ").trim();
+		// Format A: "Tomato___Early_blight"
+		const parts       = label.split("___");
+		crop              = parts[0].replace(/_/g, " ").trim();
+		const diseasePart = parts[1].replace(/_/g, " ").trim();
 
-		if (diseaseName.toLowerCase() === "healthy") {
-			status = "Healthy";
+		if (diseasePart.toLowerCase() === "healthy") {
+			status  = "Healthy";
 			disease = "None";
 		} else {
-			status = "Diseased";
-			disease = diseaseName;
+			status  = "Diseased";
+			disease = diseasePart;
 		}
+
+	} else if (label.toLowerCase().includes(" with ")) {
+		// Format B: "Tomato with Early Blight"
+		const idx = label.toLowerCase().indexOf(" with ");
+		crop      = label.substring(0, idx).trim();
+		disease   = label.substring(idx + 6).trim();
+		status    = "Diseased";
+
+	} else if (label.toLowerCase().includes("healthy")) {
+		// e.g. "Corn healthy" or just "healthy"
+		const parts = label.split(/healthy/i);
+		crop    = parts[0].replace(/_/g, " ").trim() || "Unknown";
+		status  = "Healthy";
+		disease = "None";
+
 	} else {
+		// Unknown format — store full label as disease name
 		disease = label.replace(/_/g, " ").trim();
-		if (disease.toLowerCase() === "healthy") {
-			status = "Healthy";
-			disease = "None";
-		}
 	}
 
 	return { crop, status, disease };
 }
 
-/**
- * The Fallback mechanism used if the real API fails.
- * Returns a randomized realistic scenario to keep the presentation flawless.
- */
-function getFallbackDetection() {
-	const demoResults = [
-		{ crop: "Wheat", status: "Diseased", disease: "Leaf Rust" },
-		{ crop: "Tomato", status: "Diseased", disease: "Early Blight" },
-		{ crop: "Rice", status: "Healthy", disease: "None" },
-		{ crop: "Potato", status: "Diseased", disease: "Late Blight" }
-	];
-
-	const fallback = demoResults[Math.floor(Math.random() * demoResults.length)];
-	console.log(`[ImageService] Fallback Result Used: ${fallback.crop} - ${fallback.disease}`);
-	
-	return fallback;
-}
-
-module.exports = {
-	detectDisease,
-};
+module.exports = { detectDisease };

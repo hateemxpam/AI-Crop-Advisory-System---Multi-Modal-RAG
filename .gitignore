@@ -20,3 +20,11 @@ frontend/dist/
 # System
 .DS_Store
 Thumbs.db
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# HuggingFace model weights (auto-downloaded on first run, too large for Git)
+ai-service/models/

@@ -6,3 +6,4 @@ async function list() {
   console.log(models.data.map(m => m.id).filter(id => id.includes("vision")));
 }
 list();
+
